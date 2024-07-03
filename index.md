@@ -1,3 +1,6 @@
+layout: page
+title: "PAGE-TITLE"
+
 # Index
 
 [ch01_01_1_The_Spirit_of_the_Game](ch01_01_1_The_Spirit_of_the_Game.md)
