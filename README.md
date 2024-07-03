@@ -1,6 +1,7 @@
 # SPaT
 
-## SPaT
+## Scrum Pattern 日本語版　WIP
 
-Scrum Pattern Tokyo 
+現在翻訳作業中です。
+
 
