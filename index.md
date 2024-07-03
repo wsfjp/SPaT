@@ -1,7 +1,7 @@
 ---
 layout: default
-title: github pages sample
-description: github pagesのサンプルページです！
+title: Hello
+description: Hello description
 ---
 
 # Index
