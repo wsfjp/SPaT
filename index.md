@@ -1,3 +1,9 @@
+---
+layout: default
+title: github pages sample
+description: github pagesのサンプルページです！
+---
+
 # Index
 
 [ch01_01_1_The_Spirit_of_the_Game](ch01_01_1_The_Spirit_of_the_Game.md)
