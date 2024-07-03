@@ -1,1 +1,1 @@
-# SPaTJekyll
+# SPat by Jekyll 
