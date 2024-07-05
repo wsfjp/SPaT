@@ -20,15 +20,7 @@
 {:style="text-align:center;"}
 ![ch02_04_4_Conway_s_Law2](Images/ch02_04_4_Conway_s_Law2.png)
 
-engineering/manufacturing product view: エンジニアリング／マニュファクチャリングのプロダクト視点
-
-end user product view: エンドユーザーのプロダクト視点
-
-Meetings coordination: ミーティングの調整
-
-end user concern: エンドユーザーの関心事
-
-component teams: コンポーネントチーム
+engineering/manufacturing product view: エンジニアリング／マニュファクチャリングのプロダクト視点<br>end user product view: エンドユーザーのプロダクト視点<br>Meetings coordination: ミーティングの調整<br>end user concern: エンドユーザーの関心事<br>component teams: コンポーネントチーム
 
 <br>チームが成熟を始めたばかりの初期の頃に、[7 スクラムチーム](ch02_07_7_Scrum_Team.md)の構築に向けて動き始めると、一つの組織単位として、ビジネスのすべての機能（リリース計画、開発、専門的な成長）をカバーするために上手く働ける人が増えます。しかしながら、成長と成熟は不快感の原因にもなり、チームは非公式に作業していたシンプルな日々の構造化されていない効率性を懐かしく思います。それでも成長し、市場のプロダクトを適切にマネジメントするためには、ある程度の規律のある組織構造と、いくらかの軽い統制が必要になります。
 
