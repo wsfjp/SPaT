@@ -2,7 +2,8 @@
 
 確信度：★★
 
-![ch01_01_1_The_Spirit_of_the_Game1](Images/ch01_01_1_The_Spirit_of_the_Game1.png){:.centered}
+{:style="text-align:center;"}
+![ch01_01_1_The_Spirit_of_the_Game1](Images/ch01_01_1_The_Spirit_of_the_Game1.png)
 
 
 …スクラムフレームワークにすべての答えがあるわけではない。すなわち、スクラムが最終的な答えを出さない以上、チームはスクラムに方向性を求めることはできない。
