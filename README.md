@@ -6,4 +6,4 @@
 
 <div style="text-align:center;">
 センター表示テスト
-</dev>
+</div>
