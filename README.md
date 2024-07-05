@@ -4,6 +4,3 @@
 
 現在翻訳作業中です。
 
-<div style="text-align:center;">
-センター表示テスト
-</div>
