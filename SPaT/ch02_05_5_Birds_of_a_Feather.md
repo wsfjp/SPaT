@@ -37,15 +37,7 @@ Cross-functional team: 機能横断チーム<br>Reinventing the wheel: 車輪の
 {:style="text-align:center;"}
 ![ch02_05_5_Birds_of_a_Feather3](Images/ch02_05_5_Birds_of_a_Feather3.png)
 
-Cross-functional team: 機能横断チーム<br>Outsiders: 部外者
-
-Reuse: 再利用
-
-Knowledge of how other teams use the technology: 他のチームの技術の使い方の知識
-
-This team’s innovations for use of this technology: このチームのこの技術の革新的な使い方<br>Seminars: セミナー
-
-Standards: 標準
+Cross-functional team: 機能横断チーム<br>Outsiders: 部外者<br>Reuse: 再利用<br>Knowledge of how other teams use the technology: 他のチームの技術の使い方の知識This team’s innovations for use of this technology: このチームのこの技術の革新的な使い方<br>Seminars: セミナー<br>Standards: 標準
 
 {:style="text-align:center;"}
 ＊　　＊　　＊
