@@ -5,7 +5,7 @@
 {:style="text-align:center;"}
 ![ch02_08_8_Collocated_Team1](Images/ch02_08_8_Collocated_Team1.png)
 
-… あなたは​一つ以上の[9 小さなチーム](ch02_09_9_Small_Teams.md)を、`10 機能横断チーム`​sとして立ち上げ、プロダクトに一緒に取り組んでいます。
+… あなたは​一つ以上の[9 小さなチーム](ch02_09_9_Small_Teams.md)を、`10 機能横断チーム`​として立ち上げ、プロダクトに一緒に取り組んでいます。
 
 {:style="text-align:center;"}
 ＊　　＊　　＊
