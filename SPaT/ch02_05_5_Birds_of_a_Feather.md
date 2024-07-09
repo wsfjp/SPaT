@@ -22,7 +22,7 @@
 ![ch02_05_5_Birds_of_a_Feather2](Images/ch02_05_5_Birds_of_a_Feather2.png)<br>
 
 
-`機能横断チーム`: 機能横断チーム<br>Reinventing the wheel: 車輪の再発明<br>No synergy: シナジー無し<br>Wasteful redundancy: 無駄な重複<br>Only local experience: 局所的な経験<br>applying this domain: この領域に適用
+Cross-functional team: 機能横断チーム<br>Reinventing the wheel: 車輪の再発明<br>No synergy: シナジー無し<br>Wasteful redundancy: 無駄な重複<br>Only local experience: 局所的な経験<br>applying this domain: この領域に適用
 
 ある程度の大きさの人の組織であれば、知識の関係はラティス構造を形成します。しかし、フォーマルな組織構造のほとんどは階層構造です（スクラムのプロダクト組織への変化、そしてスクラムのプロダクト組織から`開発チーム`への変化を含む）。ピーター・センゲはベームの言葉を引用し、組織学習の根幹は対話にあって、ヒエラルキーはその対極にあると指摘しています(The Fifth Discipline [Sen06], p. 288)。
 
@@ -37,7 +37,7 @@
 {:style="text-align:center;"}
 ![ch02_05_5_Birds_of_a_Feather3](Images/ch02_05_5_Birds_of_a_Feather3.png)
 
-`機能横断チーム`: 機能横断チーム<br>Outsiders: 部外者<br>Reuse: 再利用<br>Knowledge of how other teams use the technology: 他のチームの技術の使い方の知識This team’s innovations for use of this technology: このチームのこの技術の革新的な使い方<br>Seminars: セミナー<br>Standards: 標準
+Cross-functional team: 機能横断チーム<br>Outsiders: 部外者<br>Reuse: 再利用<br>Knowledge of how other teams use the technology: 他のチームの技術の使い方の知識This team’s innovations for use of this technology: このチームのこの技術の革新的な使い方<br>Seminars: セミナー<br>Standards: 標準
 
 {:style="text-align:center;"}
 ＊　　＊　　＊
