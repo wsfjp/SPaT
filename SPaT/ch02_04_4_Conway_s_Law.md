@@ -3,7 +3,8 @@
 確信度：★★
 
 {:style="text-align:center;"}
-![ch02_04_4_Conway_s_Law1](Images/ch02_04_4_Conway_s_Law1.png)図の出典 : Manu Cornet / http://www.bonkersworld.net
+![ch02_04_4_Conway_s_Law1](Images/ch02_04_4_Conway_s_Law1.png)<br>
+図の出典 : Manu Cornet / http://www.bonkersworld.net
 
 {:style="text-align:center;"}
 

@@ -3,7 +3,8 @@
 確信度：★
 
 {:style="text-align:center;"}
-![ch02_05_5_Birds_of_a_Feather1](Images/ch02_05_5_Birds_of_a_Feather1.png)蝶のオオカバマダラは中央アメリカに定期的に集合する性質を持つ。
+![ch02_05_5_Birds_of_a_Feather1](Images/ch02_05_5_Birds_of_a_Feather1.png)<br>
+蝶のオオカバマダラは中央アメリカに定期的に集合する性質を持つ。
 
 {:style="text-align:center;"}
 
@@ -18,7 +19,8 @@
 アジャイルのアプローチへ移行中の組織において、「エンパワメント」や「自己管理チーム」といった言葉が叫ばれることがよくあります。しかし、チームに権限を持たせることは、チームを分離し、独自の境界につながり、企業全体のドメイン知識、ビジネス感覚、戦略に寄与しうる長期的な洞察を含む情報の共有を減らすことになりかねません (Across the Board 54の“The Limits of Participatory Managementˮを参照 [Hec95])。
 
 {:style="text-align:center;"}
-![ch02_05_5_Birds_of_a_Feather2](Images/ch02_05_5_Birds_of_a_Feather2.png)
+![ch02_05_5_Birds_of_a_Feather2](Images/ch02_05_5_Birds_of_a_Feather2.png)<br>
+
 
 `機能横断チーム`: 機能横断チーム<br>Reinventing the wheel: 車輪の再発明<br>No synergy: シナジー無し<br>Wasteful redundancy: 無駄な重複<br>Only local experience: 局所的な経験<br>applying this domain: この領域に適用
 
