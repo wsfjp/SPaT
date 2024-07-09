@@ -8,3 +8,7 @@
 
 [ch02_04_4_Conway_s_Law](ch02_04_4_Conway_s_Law.md)
 
+[ch02_05_5_Birds_of_a_Feather](ch02_05_5_Birds_of_a_Feather.md)
+
+[ch02_06_6_Involve_the_Managers](ch02_06_6_Involve_the_Managers.md)
+
