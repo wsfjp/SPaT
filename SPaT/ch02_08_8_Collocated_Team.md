@@ -5,7 +5,7 @@
 {:style="text-align:center;"}
 ![ch02_08_8_Collocated_Team1](Images/ch02_08_8_Collocated_Team1.png)
 
-… あなたは​一つ以上の`9 小さなチーム`を、`10 機能横断チーム`​sとして立ち上げ、プロダクトに一緒に取り組んでいます。
+… あなたは​一つ以上の[9 小さなチーム](ch02_09_9_Small_Teams.md)を、`10 機能横断チーム`​sとして立ち上げ、プロダクトに一緒に取り組んでいます。
 
 {:style="text-align:center;"}
 ＊　　＊　　＊
@@ -34,9 +34,9 @@ Communication Effectiveness: コミュニケーションの有効性<br>Richness
 
 しかし、オフィスはもはや単なる物理的な場所だけとは限られていません。私たちはログオンすれば、オフィスに入ることができ、どこからでも会議に参加でき、お互いに顔を合わせることなくドキュメントを共同で作成することができます。距離を縮める技術はアレン曲線を打破し、コミュニケーションはもはや距離とは無関係であるかのように思われます。
 
-Wrong. The Allen curve holds. In fact, as distance-shrinking technology accelerates, proximity is apparently becoming more important. Studies by Ben Waber show that both face-to-face and digital communications follow the Allen curve. In one study, engineers who shared a physical office were 20% more likely to stay in touch digitally than those who worked elsewhere. When they needed to collaborate closely, co-located coworkers e-mailed four times as frequently as colleagues in different locations, which led to 32% faster project completion times. (From Harvard Business Review 92 [WML14].)
+それは間違っています。アレン曲線は保たれています。それどころか、距離を縮める技術が加速するにつれ、明らかに近接性はより重要になってきています。Ben Waberの研究によると、対面のコミュニケーションとデジタルのコミュニケーションの両方がアレン曲線に従っていることを示しています。ある研究では、オフィスを物理的に共有しているエンジニアは、別の場所で仕事をするエンジニアに比べて、デジタルで連絡を取り合う傾向が20％高かったのです。また、密接な共同作業が必要な場合、同じ場所にいる同僚は、別の場所にいる同僚に比べ4倍の頻度で電子メールをやり取りし、その結果、プロジェクト完了までの時間が32％短縮されました(Harvard Business Review 92 [WML14]より)。
 
-Even more powerful than distance are features of the building architecture; being in different offices is a liability, in different hallways a serious liability, on different building levels an extreme liability, and in separate buildings a disaster. We have heard the CEO of one of the world’s largest telecommunications companies say that their popular telecommunications product is not a tool suitable to supporting multisite software development.
+距離よりもさらに強力なのは、建物の構造上の特徴です。異なるオフィスは障害、異なる廊下は重大な障害、異なるビルの階は極度の障害、別々のビルは大惨事となります。世界最大の遠隔コミュニケーション会社のCEOは、遠隔コミュニケーションで人気の自社プロダクトは、複数拠点でのソフトウェア開発をサポートするのに適したツールではないと言っています。
 
 ![ch02_08_8_Collocated_Team4](Images/ch02_08_8_Collocated_Team4.png)<br>
 Distance Effects on Communications: コミュニケーションにおける距離の影響<br>Probability of communicating at least once a week: すくなくとも週に1回のコミュニケーションを取る確率<br>Separation distance (meters): 離れている距離（メートル）
@@ -68,7 +68,7 @@ Reinertsenは、私たちに次のように諭しています。「同じ場所�
 
 人によってはこうすることを居心地悪く感じるかもしれません。特に独り作業を好む人たちです。チームで働くこと、そして[同じ場所に集まったチーム](ch02_08_8_Collocated_Team.md)で働くことはすべての人に向いているわけではなく、このような人が組織から出て、自分の好みにより適した機関で働けるよう手助けする必要があるかもしれませんし、あるいはスクラムは彼らには向いていないのかもしれません。人によっては、広い範囲で頻繁に人と接すると自分の快適な領域から外れてしまうと感じるかもしれませんが、ほとんどの人はチームの幅広いニーズに自分の行動を適応させることができます。そうするために他の人よりも多くのエネルギーを必要とする人もいますが、効果的なチームワークのためには、このようなコミュニケーションが必要なのです。
 
-大規模なチームを持ちたい、あるいは大規模なチームを持たなければならないと考えている組織にとって、同じ場所に集まることは非常に困難です。スペースがなかったり、場所を移すのに多額の移転費用がかかったりします。組織にとって、この状況を障害として扱うか、それともこの最適でない状態を受け入れるかは重要な節目となるでしょう。`小さなチーム`、`機能横断チーム`、[4 コンウェイの法則](ch02_04_4_Conway_s_Law.md)を参照してください。
+大規模なチームを持ちたい、あるいは大規模なチームを持たなければならないと考えている組織にとって、同じ場所に集まることは非常に困難です。スペースがなかったり、場所を移すのに多額の移転費用がかかったりします。組織にとって、この状況を障害として扱うか、それともこの最適でない状態を受け入れるかは重要な節目となるでしょう。[小さなチーム](ch02_09_9_Small_Teams.md)、`機能横断チーム`、[4 コンウェイの法則](ch02_04_4_Conway_s_Law.md)を参照してください。
 
 乳児は母国語の音素に繰り返し触れることで、その音素を認識できるようになります。生身の人間の存在が非常に重要であることは研究で示されています。（生身の人間からの）外国語の音素にさらされた乳児は、（その後にオーディオや動画から聞いた場合でも）生身の人間から聞くのと同様に、外国語の音素を認識できるようになります。しかしながら、オーディオや動画メディアで音素を聞いた場合には、学習効果は見られませんでした（Nature Reviews Neuroscience 5 [Kuh04]）。コミュニケーションは社会的なプロセスであり、技術がコミュニケーション手段の自然さを制限すると、コミュニケーションは効果的ではなくなります。このことは、電話会議やビデオ会議が、効果的なコミュニケーションには不適切であることを裏付ける傾向があります。次の電話会議やビデオ会議では、そのセッションと対面での対話との違いを観察してみてください。一連の発言の間における、割り込み、オーバーラップ、相槌の量、また発言者が交代する際のフォーマルさの度合いなどの違いです。研究では、電話会議やビデオ会議は対面での対話を再現するものではないことが示されています（Human-Computer Interaction 8 [OWW93]）。
 
