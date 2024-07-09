@@ -4,9 +4,9 @@
 
 {:style="text-align:center;"}
 ![ch02_05_5_Birds_of_a_Feather1](Images/ch02_05_5_Birds_of_a_Feather1.png)
+蝶のオオカバマダラは中央アメリカに定期的に集合する性質を持つ。
 
 {:style="text-align:center;"}
-蝶のオオカバマダラは中央アメリカに定期的に集合する性質を持つ。
 
 ...スクラムの組織体や役割が整っています。[14 開発チーム](ch02_14_14_Development_Team.md)​は、プロダクトを作るために​[16 自律したチーム](ch02_16_16_Autonomous_Team.md)​として効果的に働いています。彼らは​[10 機能横断チーム](ch02_10_10_Cross_Functional_Team.md)​であり、個々のチームの専門性は、各チームがそれぞれの作業から得られる洞察によってのみ成長します。
 
@@ -19,7 +19,6 @@
 
 {:style="text-align:center;"}
 ![ch02_05_5_Birds_of_a_Feather2](Images/ch02_05_5_Birds_of_a_Feather2.png)
-
 
 
 Cross-functional team: 機能横断チーム<br>Reinventing the wheel: 車輪の再発明<br>No synergy: シナジー無し<br>Wasteful redundancy: 無駄な重複<br>Only local experience: 局所的な経験<br>applying this domain: この領域に適用
