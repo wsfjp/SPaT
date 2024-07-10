@@ -31,7 +31,7 @@
 
 たとえば、[スクラムチーム](ch02_07_7_Scrum_Team.md)は`71 スプリントゴール`の作成に参加しています。チームは、プロダクト開発で必要になる全ての領域で能力を発揮できるよう[10 機能横断チーム](ch02_10_10_Cross_Functional_Team.md)​ でなければなりません。作業やチームメンバーに魅力を感じたチームに、開発者自身が自発的にサインアップすると、共有された目的と個人の価値観を一致させる基盤ができます（`4.2.11. 自分たちで選んだチーム`を参照）。[16 自律したチーム](ch02_16_16_Autonomous_Team.md)​も参照してください。
 
-プロダクトを正しく作ること、優れた職人気質を認めることで[スクラムチーム](ch02_07_7_Scrum_Team.md)は誇りを持ちます。​[19 スクラムマスター](ch02_20_19_ScrumMaster.md)は、チームが卓越したスキルと働き方を身につけられるよう支援します（`26 カイゼンパルス`​と​​`92 スクラムでスクラムを改善`を参照）。正しい`85 定期的なプロダクトインクリメント`​が現れると、誰もが誇りを持ちます。市場からのフィードバックは[スクラムチーム](ch02_07_7_Scrum_Team.md)の努力を認知するもので、チームのプライドを更に高めます。
+プロダクトを正しく作ること、優れた職人気質を認めることで[スクラムチーム](ch02_07_7_Scrum_Team.md)は誇りを持ちます。​[19 スクラムマスター](ch02_20_19_ScrumMaster.md)は、チームが卓越したスキルと働き方を身につけられるよう支援します（[26 カイゼンパルス](ch02_27_26_Kaizen_Pulse.md)​と​​`92 スクラムでスクラムを改善`を参照）。正しい`85 定期的なプロダクトインクリメント`​が現れると、誰もが誇りを持ちます。市場からのフィードバックは[スクラムチーム](ch02_07_7_Scrum_Team.md)の努力を認知するもので、チームのプライドを更に高めます。
 
 正しいプロダクトを作ることが[プロダクトプライド](ch02_39_38_Product_Pride.md)を生みます。素晴らしいチームには「場」があります。偉大なことが行われる可能性は、共有された目的に集うことから始まります。目的によってチームがまとまるということではなく、目的は素晴らしい潜在的なチームから生まれます。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は`ビジョン`の一部として熱意の最初の担い手となり、熱意を伝搬させることが仕事の一部となります。
 
@@ -150,7 +150,7 @@ Robert Warfield. “How I Helped Start the Agile/Scrum Movement 20 Years Ago.”
 
 [33]
 
-The ¶`スクラムオブスクラム` as a daily meeting of ‘ambassadors’ from multiple teams is described on the Agile Alliance website. https://www.agilealliance.org/glossary/scrum-of-scrums/.
+The ¶[スクラムオブスクラム](ch02_35_34_Scrum_of_Scrums.md) as a daily meeting of ‘ambassadors’ from multiple teams is described on the Agile Alliance website. https://www.agilealliance.org/glossary/scrum-of-scrums/.
 
 [34]
 
