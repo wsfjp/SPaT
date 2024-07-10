@@ -150,7 +150,7 @@ Robert Warfield. “How I Helped Start the Agile/Scrum Movement 20 Years Ago.”
 
 [33]
 
-The ¶[スクラムオブスクラム](ch02_35_34_Scrum_of_Scrums.md) as a daily meeting of ‘ambassadors’ from multiple teams is described on the Agile Alliance website. https://www.agilealliance.org/glossary/scrum-of-scrums/.
+The Scrum of Scrums as a daily meeting of ‘ambassadors’ from multiple teams is described on the Agile Alliance website. https://www.agilealliance.org/glossary/scrum-of-scrums/.
 
 [34]
 

@@ -27,7 +27,7 @@
 
 * 完了していない以前の作業（`82 完成の定義`​を使用）
 
-* [11 プロダクトオーナー](ch02_11_11_Product_Owner.md)によるバックログの変更（Product Owner)を使用）
+* [11 プロダクトオーナー](ch02_11_11_Product_Owner.md)によるバックログの変更（[プロダクトオーナー](ch02_11_11_Product_Owner.md))を使用）
 
 * 経営陣の干渉（[6 マネージャーを巻き込む](ch02_06_6_Involve_the_Managers.md)​および[37 メタスクラム](ch02_38_37_MetaScrum.md)​​を使用）
 
@@ -79,7 +79,7 @@
 {:style="text-align:center;"}
 ＊　　＊　　＊
 
-The team will learn to rapidly respond to change in a disciplined way and overcome challenges. In many organizations, when things are not going well, teams are not thinking clearly and are frustrated and demotivated. They fail to understand the cause of their problems and the way to fix them. Executing the Emergency Procedure will train the team to focus on success and systematically remove impediments. Great teams will surprise themselves with their ability to overcome adversity and move from strength to strength. It increases chances for successfully delivering a​`85 定期的なプロダクトインクリメント`​ both in the short term and long term. The team will feel it is doing all it can when using Emergency Procedure to get back on the right track, out of both professional pride (see ¶118 Team Pride) and ​[38 プロダクトプライド](ch02_39_38_Product_Pride.md)​.<br>チームは、規律ある方法で変化に迅速に対応することを学び、課題を克服します。多くの組織では、仕事がうまくいっていないとき、チームは頭が働いておらず、フラストレーションを感じてやる気を失っています。自分たちの問題の原因とそれを修正する方法を理解していません。[緊急時手順](ch02_33_32_Emergency_Procedure.md)の実行によって、チームは成功に焦点を当て、障害を体系的に取り除く方法を身に付けます。優れたチームは、逆境を乗り越える自らの能力に驚き、ますます強くなります。それは、短期的にも長期的にも​`85 定期的なプロダクトインクリメント`​を成功裏に提供する可能性を高めます。チームは、プロフェッショナルとしての誇り（`4.2.13. チームのプライド`を参照）や[38 プロダクトプライド](ch02_39_38_Product_Pride.md)のあらわれとして、[緊急時手順](ch02_33_32_Emergency_Procedure.md)を使用して元に戻すために、全力を尽くしていると感じるでしょう。
+チームは、規律ある方法で変化に迅速に対応することを学び、課題を克服します。多くの組織では、仕事がうまくいっていないとき、チームは頭が働いておらず、フラストレーションを感じてやる気を失っています。自分たちの問題の原因とそれを修正する方法を理解していません。[緊急時手順](ch02_33_32_Emergency_Procedure.md)の実行によって、チームは成功に焦点を当て、障害を体系的に取り除く方法を身に付けます。優れたチームは、逆境を乗り越える自らの能力に驚き、ますます強くなります。それは、短期的にも長期的にも​`85 定期的なプロダクトインクリメント`​を成功裏に提供する可能性を高めます。チームは、プロフェッショナルとしての誇り（`4.2.13. チームのプライド`を参照）や[38 プロダクトプライド](ch02_39_38_Product_Pride.md)のあらわれとして、[緊急時手順](ch02_33_32_Emergency_Procedure.md)を使用して元に戻すために、全力を尽くしていると感じるでしょう。
 
 [割り込みに負けるな](ch02_34_33_Illegitimus_Non_Interruptus.md)のパターンと併せて、[緊急時手順](ch02_33_32_Emergency_Procedure.md)を使うことで、管理されていない要求の透明性をより規律正しい方法で高めることができます。
 

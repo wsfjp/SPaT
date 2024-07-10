@@ -1,6 +1,6 @@
 # 28 ハッピーバブルをつつく
 
-別名：Happy Bubbleを超えて
+別名：ハッピーバブルを超えて
 
 {:style="text-align:center;"}
 ![ch02_29_28_Pop_the_Happy_Bubble1](Images/ch02_29_28_Pop_the_Happy_Bubble1.png)
