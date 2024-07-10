@@ -13,7 +13,7 @@
 {:style="text-align:center;"}
 ＊　　＊　　＊
 
-`プロダクトオーナー`は、一人でうまく対処するには多すぎる仕事を抱えています（例えば、Proceedings of the Agile Development Conference [MBN04]を参照）。
+**`プロダクトオーナー`は、一人でうまく対処するには多すぎる仕事を抱えています**（例えば、Proceedings of the Agile Development Conference [MBN04]を参照）。
 
 {:style="text-align:center;"}
 ![ch02_12_12_Product_Owner_Team2](Images/ch02_12_12_Product_Owner_Team2.png)
