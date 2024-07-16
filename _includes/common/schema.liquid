@@ -10,13 +10,13 @@
         "image": [{% for image in page.images %}"{{ image }}"{% unless forloop.last %},{% endunless %}{% endfor %}],
         "author": {
             "@type": "Person",
-            "name": ""
+            "name": "{{ author }}"
         },
-        "datePublished": "",
-        "dateModified": "",
+        "datePublished": "{{ schema_date }}",
+        "dateModified": "{{ schema_modi }}",
         "publisher": {
             "@type": "{{ docs.owner.type }}",
-            "name": "",
+            "name": "{{ author }}",
             "logo": {
                 "@type": "ImageObject",
                 "url": "{{ docs.owner.avatar_url }}"
