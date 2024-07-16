@@ -4,6 +4,8 @@ Confidence stars: **<br>確信度：★★
 
 {:style="text-align:center;"}
 ![ch02_36_35_Sprint_Review1](Images/ch02_36_35_Sprint_Review1.png)<br>
+
+
 ...`75 プロダクションエピソード`が終了しました。
 
 {:style="text-align:center;"}
@@ -14,10 +16,8 @@ Confidence stars: **<br>確信度：★★
 [11 プロダクトオーナー](ch02_11_11_Product_Owner.md)と[開発チーム](ch02_14_14_Development_Team.md)は、`定期的なプロダクトインクリメント`を作成することで組織に価値を提供するために協力して働きます。[開発チーム](ch02_14_14_Development_Team.md)のメンバーは、`プロダクションエピソード`中にチーム内で作業を行うことが普通ですが、[プロダクトオーナー](ch02_11_11_Product_Owner.md)や他のステークホルダーに対して、正しいものを開発する責任を負います。長い期間、自分たちの印象に頼っていると、`39 ビジョン`​の意図から外れる恐れがあります。
 
 {:style="text-align:center;"}
-![ch02_36_35_Sprint_Review2](Images/ch02_36_35_Sprint_Review2.png)
-
-{:style="text-align:center;"}
-[図中]<br>VISION:ビジョン<br>Greatest value<br>Product:プロダクト<br>Development team:開発チーム<br>Greatest Value
+![ch02_36_35_Sprint_Review2](Images/ch02_36_35_Sprint_Review2.png)<br>
+`<br>ビジョン`:ビジョン<br>Greatest value<br>Product:プロダクト[<br>開発チーム](ch02_14_14_Development_Team.md):開発チーム`<br>最高の価値`
 
 優れた[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、`定期的なプロダクトインクリメント`の具体的なビジョンを描くことができ、[24 スプリントプランニング](ch02_25_24_Sprint_Planning.md)でチームに構築を依頼します。このビジョンは、[開発チーム](ch02_14_14_Development_Team.md)との綿密な計画作りや議論に基づいています。これは、`63 実装可能な仕様`のレベルに達しますが、複雑なプロダクトを構築する際に完璧に先を見通すことは不可能です。具体的に実装すると、ほぼ常に疑問が生まれます。プロダクトのビジョンを描いたり、チームと議論した時に生まれる物を超えた疑問です。また、[プロダクトオーナー](ch02_11_11_Product_Owner.md)とチーム間のコミュニケーションが情報を失ったり、[プロダクトオーナー](ch02_11_11_Product_Owner.md)がプロダクトに対する暗黙の仮定や思いをすべて伝えていない可能性も常にあります。
 
@@ -30,16 +30,8 @@ Confidence stars: **<br>確信度：★★
 複雑な開発における問題に対処する良い方法は、短いフィードバックループを用いて、ステークホルダーがソリューションを評価することです。これにより、チームは大きく逸脱することなく迅速に適応できます。[スプリントレビュー](ch02_36_35_Sprint_Review.md)は、スプリントサイクル中の検討とフィードバックの中心です。[プロダクトオーナー](ch02_11_11_Product_Owner.md)はどんなステークホルダーでも[スプリントレビュー](ch02_36_35_Sprint_Review.md)に招待できます。キーとなるエンドユーザーを招待し、彼らのフィードバックを引き出すことが推奨されます。
 
 {:style="text-align:center;"}
-![ch02_36_35_Sprint_Review3](Images/ch02_36_35_Sprint_Review3.png)
-
-{:style="text-align:center;"}
-[図中]<br>Product:プロダクト<br>Development team:開発チーム<br>End production episode:Production episodeの終わり
-
-{:style="text-align:center;"}
-Stakeholders:ステークホルダー<br>Greatest value:Greatest value
-
-{:style="text-align:center;"}
-VISION:ビジョン
+![ch02_36_35_Sprint_Review3](Images/ch02_36_35_Sprint_Review3.png)<br>
+Product:プロダクト<br>Development team:開発チーム<br>End production episode:Production episodeの終わり<br>Stakeholders:ステークホルダー<br>Greatest value:Greatest value<br>VISION:ビジョン
 
 参加者は、プロダクトを検査して、現在のプロダクトインクリメントが出荷に適しているか理解するだけでなく、将来の作業を方向付ける情報（例えば、`54 プロダクトバックログ`の並べ替えなど）を提供します。
 

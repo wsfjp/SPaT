@@ -15,9 +15,7 @@
 
 {:style="text-align:center;"}
 ![ch02_34_33_Illegitimus_Non_Interruptus2](Images/ch02_34_33_Illegitimus_Non_Interruptus2.png)<br>
-
-
-[図中]<br>Field problem:現場の問題<br>Management interference:経営陣の干渉<br>Sprint backlog:スプリントバックログ<br>Large emergent requirement:大きな突発的要求
+Field problem:現場の問題<br>Management interference:経営陣の干渉<br>Sprint backlog:スプリントバックログ<br>Large emergent requirement:大きな突発的要求
 
 多くの点で、[スクラムチーム](ch02_07_7_Scrum_Team.md)は多くのステークホルダーのニーズに応える共有リソースです。「共有地の悲劇」は、多くの個人が独立して合理的に自己の利益を追求する状況から生じるジレンマです。長期的に誰にとっても望ましくないことは明らかであるにもかかわらず、限られた共有リソースを最終的に枯渇させてしまうのです。アメリカの生態学者で哲学者のギャレット・ハーディンは、このジレンマを「共有地の悲劇」という影響力のあるタイトルで初めて記述し、1968年に「サイエンス」誌に掲載されました。[32]
 
@@ -34,9 +32,8 @@
 **割り込みのための時間を明示的に割り当て、割り当て内に収まる以上の作業を許さないでください。作業が割り当てを超える場合は、スプリントを中止します。**
 
 {:style="text-align:center;"}
-![ch02_34_33_Illegitimus_Non_Interruptus3](Images/ch02_34_33_Illegitimus_Non_Interruptus3.png)
-
-[図中]<br>Product backlog:プロダクトバックログ<br>Field problem:現場の問題<br>Management interference:経営陣の干渉<br>Large emergent requirement:大きな突発的要件<br>Sprint backlog:スプリントバックログ<br>Buffer:バッファ<br>Abort sprint:スプリントの中止
+![ch02_34_33_Illegitimus_Non_Interruptus3](Images/ch02_34_33_Illegitimus_Non_Interruptus3.png)<br>
+Product backlog:プロダクトバックログ<br>Field problem:現場の問題<br>Management interference:経営陣の干渉<br>Large emergent requirement:大きな突発的要件<br>Sprint backlog:スプリントバックログ<br>Buffer:バッファ<br>Abort sprint:スプリントの中止
 
 生産活動を妨げないように組織が自己組織化するための3つの簡単なルールを設定します。
 

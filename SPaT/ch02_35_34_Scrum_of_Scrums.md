@@ -3,11 +3,9 @@
 確信度：★
 
 {:style="text-align:center;"}
-![ch02_35_34_Scrum_of_Scrums1](Images/ch02_35_34_Scrum_of_Scrums1.png)<br>
+![ch02_35_34_Scrum_of_Scrums1](Images/ch02_35_34_Scrum_of_Scrums1.png)
+
 ...[7 スクラムチーム](ch02_07_7_Scrum_Team.md)​は、単一の製品に、複数の[14 開発チーム](ch02_14_14_Development_Team.md)​​で取り組んでいます。[開発チーム](ch02_14_14_Development_Team.md)​は、依存関係と共有作業を調整する必要があります。個々のチーム内の未解決の依存関係は、すべてのチームに共通する課題です。
-
-{:style="text-align:center;"}
-
 
 {:style="text-align:center;"}
 ＊　　＊　　＊
@@ -17,9 +15,8 @@
 アジリティが一つのチームの規模でのみ機能するという誤った信念から、組織はコマンド・アンド・コントロールのアプローチに戻ることがあります。しかしながら、そのような場合、複雑さは減少するどころか増大してしまいます。階層的なコントロールは遅延を増やし、ビジネスや技術の変化に対するチームとより広範な組織の対応力を低下させます。
 
 {:style="text-align:center;"}
-![ch02_35_34_Scrum_of_Scrums2](Images/ch02_35_34_Scrum_of_Scrums2.png)
-
-[図中]<br>team 1:チーム 1<br>team 2:チーム 2<br>team 3:チーム 3<br>team 4:チーム 4
+![ch02_35_34_Scrum_of_Scrums2](Images/ch02_35_34_Scrum_of_Scrums2.png)<br>
+team 1:チーム 1<br>team 2:チーム 2<br>team 3:チーム 3<br>team 4:チーム 4
 
 [スクラムチーム](ch02_07_7_Scrum_Team.md)は問題を小さく分割し、それによって各[開発チーム](ch02_14_14_Development_Team.md)は成果物の一部を別々に作業できます。しかし、「科学的管理の原則[Tay4]」におけるテイラー主義の考え方、つまり、「部分最適によって、全体最適を実現する」という考えは、複雑な環境では機能しません（International Journal of Operations and Production Management 14 [Bur94]、International Journal of Operations and Production Management 17 [DLP97]）。予期せぬ依存関係により、作業の調整に手間がかかり、納期が遅れ、組織が変化に対応する能力が低下します。
 
