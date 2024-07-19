@@ -2,7 +2,6 @@
 
 確信度：★★
 
-{:style="text-align:center;"}
 ![ch02_09_9_Small_Teams1](Images/ch02_09_9_Small_Teams1.png)<br>
 毎週月曜日の朝、5000人規模の会社のCEOは、“Hello Team.”という言葉で始まるメールを送っていた。私たちは皆、自分たちはワンチームではないと分かっていた。
 

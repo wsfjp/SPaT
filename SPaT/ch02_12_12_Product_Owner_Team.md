@@ -16,8 +16,7 @@
 **[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、一人でうまく対処するには多すぎる仕事を抱えています**（例えば、Proceedings of the Agile Development Conference [MBN04]を参照）。
 
 {:style="text-align:center;"}
-![ch02_12_12_Product_Owner_Team2](Images/ch02_12_12_Product_Owner_Team2.png)
-
+![ch02_12_12_Product_Owner_Team2](Images/ch02_12_12_Product_Owner_Team2.png)<br>
 Bottleneck: ボトルネック
 
 [プロダクトオーナー](ch02_11_11_Product_Owner.md)は[開発チーム](ch02_14_14_Development_Team.md)に頼めますが、それでは単に開発者へ負担を移すだけです。それにより、実際の開発に当てられるキャパシティーが減ってしまいます。[プロダクトオーナー](ch02_11_11_Product_Owner.md)にとって、学び改善し、より良い[プロダクトオーナー](ch02_11_11_Product_Owner.md)になる動機はありません。

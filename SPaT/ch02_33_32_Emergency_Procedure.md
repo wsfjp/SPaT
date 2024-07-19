@@ -6,6 +6,9 @@
 ![ch02_33_32_Emergency_Procedure1](Images/ch02_33_32_Emergency_Procedure1.png)<br>
 ジェフ・サザーランドの同僚エド・アターブリーがハノイ上空でSAMミサイルに撃墜される様子。脱出するのが見えます！
 
+{:style="text-align:center;"}
+
+
 ...企業、チーム、個人はしばしば自分たちが努力しても期限内の納品に間に合わないことに気がつきます。[Sprint Burndown Chart](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/information-radiator/sprint-burndown-chart)は失敗が実質的に確定していることを示しています。問題を素早く特定し、迅速に対応することは、アジリティの精神の基本です。
 
 {:style="text-align:center;"}

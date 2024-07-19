@@ -17,18 +17,8 @@
 
 複雑さを減らすべく、組織はプロセスや構造を標準化しようとします。これはベストプラクティスの採用によるかもしれませんし、組織文化の長年の積み重ねによる場合もあります。ベストプラクティスとは、特定の文脈の中で特定の目的を達成するために編み出されたものであり、適用したい組織には合わないかもしれません（Managing the Design Factory: A Product Developer's Toolkit [Rei98], p.184）。必要なのは「十分よさそう」なものだけであり、そこから先は創発によって導かれます。組織は状況によって、ある時期に独自のベストプラクティスとなる構造やプロセスを開発することがあり、それは確立されたプラクティスとなります。しかし、このようなアプローチは、しばらくの間はうまくいきますが、時間の経過とともにベストなプラクティスではなくなっていきます。経営手法の進歩や技術の向上により、ビジネスの状況は変化していきます。チームは新たな停滞期に入り、行き詰ってしまうかもしれません。
 
-{:style="text-align:center;"}
-![ch02_17_17_Self_Organizing_Team2](Images/ch02_17_17_Self_Organizing_Team2.png)
-
-Part 1: パーツ１<br>Part 2: パーツ２<br>Part 3: パーツ３
-
-Silver bullet procedure: 銀の弾丸的な最強手順
-
-* part A connects with section B: パーツAをセクションBに接続する
-
-* Item 2 locks into section F on part A: アイテム２は、パーツAのセクションFに固定する
-
-* Always use part B last: パーツBを常に最後に用いる
+![ch02_17_17_Self_Organizing_Team2](Images/ch02_17_17_Self_Organizing_Team2.png)<br>
+Part 1: パーツ１<br>Part 2: パーツ２<br>Part 3: パーツ３<br>Silver bullet procedure: 銀の弾丸的な最強手順<br>part A connects with section B: パーツAをセクションBに接続する<br>Item 2 locks into section F on part A: アイテム２は、パーツAのセクションFに固定する<br>Always use part B last: パーツBを常に最後に用いる
 
 人は誰かにリードされたり、何をすればいいか指示をされると安心するものです。こうした指示とコントロールは、いくつかの結果をもたらします。人々がコントロール型の管理者のもとで働くと、モチベーションや職場の状況(例えば離職率や仕事の満足度など)が悪化するおそれがあります（“The impact of work design, autonomy support, and strategy on employee outcomes: A differentiated perspective on self-determination at work” in Motivation and Emotion 39 [Gün15]を参照)。 しかも、仕事のやり方を一番よく理解しているのは、その仕事を行っている人々です。仕事をする人自身が自分の仕事をコントロールできなければ、効率性・有効性・質の高い成果を得るための貴重な機会が失われます。例えば、工場の従業員は率先して作業の効率化や安全性の向上に取り組むことがあります。解決策を考えるどころか、その必要性を理解することもできないほど現状に疎い管理者に期待をしても、こうした改善は望めないかもしれません。
 
@@ -39,8 +29,7 @@ Silver bullet procedure: 銀の弾丸的な最強手順
 **開発チームは、仕事を「完成」（[Definition of Done](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/definition-of-done)を参照）させるべく、自らを組織化しましょう。**自らの仕事をどのように行うかについては、開発チームのみが責任を負います。
 
 {:style="text-align:center;"}
-![ch02_17_17_Self_Organizing_Team3](Images/ch02_17_17_Self_Organizing_Team3.png)
-
+![ch02_17_17_Self_Organizing_Team3](Images/ch02_17_17_Self_Organizing_Team3.png)<br>
 Part 1: パーツ１<br>Part 2: パーツ２<br>Part 3: パーツ３<br>Work plan: 作業計画
 
 開発チームは、日々の仕事のあらゆる面をコントロールします。例えば、開発チームは​[デイリースクラム](ch02_30_29_Daily_Scrum.md)ミーティングを行い、誰が何をするかを決めます。作業の順番を決め、​[スウォーミング：1個流し](ch02_26_25_Swarming_One_Piece_Continuous_Flow.md)をどのように行うかを決めます。開発チームは、メンバーの専門スキルや得意分野をどう活用するかを自分たちで決めます。これには、どうペアを組むかを決めることなども含まれます。

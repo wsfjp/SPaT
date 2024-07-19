@@ -15,8 +15,7 @@
 一つの製品に対して一つのチームで働くのが、最も効果的です。全てのチームメンバーは、自分の仕事が過去、現在、未来にどうつながるのかを正確に理解します。他のチームメンバーが作業の求めに応じて、すぐに方向転換できます。チームが二つであるよりも一つであるほうが、仕事からの学びは、より自然な流れになります。[プロダクトオーナー](ch02_11_11_Product_Owner.md)​にとって、二つよりも一つの[開発チーム](ch02_14_14_Development_Team.md)と調整する方が、より容易です。二つのチームを扱うことは、[スクラムマスター](ch02_20_19_ScrumMaster.md)の仕事を増やし、チームごとに[スクラムマスター](ch02_20_19_ScrumMaster.md)を持つということは、調整のラインをもう一つ増やすということです。
 
 {:style="text-align:center;"}
-![ch02_18_18_Mitosis2](Images/ch02_18_18_Mitosis2.png)
-
+![ch02_18_18_Mitosis2](Images/ch02_18_18_Mitosis2.png)<br>
 Cross-functional team: 機能横断チーム<br>Who is working on x ?: 誰がxに取り組んでいますか？
 
 公式チームと実動チームという用語で明確に区別できます。公式チームとは、組織図に存在しており、[スクラムマスター](ch02_20_19_ScrumMaster.md)や[プロダクトオーナー](ch02_11_11_Product_Owner.md)のような肩書きに対応するものです。一方、実動チームは、個人間の社会的相互作用が実際に起きる場に生まれます。非公式と公式の構造を合わせるのは良いことです。そして、先述のように一つのチームを持つのは良いことですが、実体は二つのチームにもかかわらず、あたかも一つのチームであるかのようにふるまうのは愚かです。
@@ -30,8 +29,7 @@ Cross-functional team: 機能横断チーム<br>Who is working on x ?: 誰がx�
 **元のチームが徐々に成長し、7人程度になって非効率的になったところで、一つの大きな[開発チーム](ch02_14_14_Development_Team.md)を二つの小さなチームに分けます。**元のチームの経験、ドメイン知識、プロダクトの知識、そして文化を、新チームそれぞれに引き継ぎます。
 
 {:style="text-align:center;"}
-![ch02_18_18_Mitosis3](Images/ch02_18_18_Mitosis3.png)
-
+![ch02_18_18_Mitosis3](Images/ch02_18_18_Mitosis3.png)<br>
 Cross-functional team: 機能横断チーム<br>Scrum of scrums: スクラムオブスクラム<br>Focus: 集中
 
 分割後も各チームが[機能横断チーム](ch02_10_10_Cross_Functional_Team.md)であり続け、自律的に[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)を届けられるように、十分に広い分野をカバーしていることが重要です（[自律したチーム](ch02_16_16_Autonomous_Team.md)を参照）。新しいチームはそれぞれ、プロダクトの全ての部分の作業をする権限を持つべきです。

@@ -23,8 +23,7 @@
 この問題をさらに難しくしているは、ジェラルド(ジェリー)・ワインバーグが提供している経験則モデルで、マルチタスクが仕事の完成を遅らせるというものです（Quality Software Management: Volume 1, Systems Thinking [Wei92], p. 284):
 
 {:style="text-align:center;"}
-![ch02_26_25_Swarming_One_Piece_Continuous_Flow2](Images/ch02_26_25_Swarming_One_Piece_Continuous_Flow2.png)
-
+![ch02_26_25_Swarming_One_Piece_Continuous_Flow2](Images/ch02_26_25_Swarming_One_Piece_Continuous_Flow2.png)<br>
 Percent: パーセント<br>Number of Simultaneous Projects: 同時プロジェクト数<br>Working Time Available Per Project: プロジェクト毎の作業時間<br>Loss to Context Switching: コンテキストスイッチによる損失
 
 さらに悪いことに、最近の脳科学では、マルチタスクが人を愚かにし、速度を遅くするだけでなく、ストレスを増加させ、老化を早めることが明らかになっています(Proceedings of Agile 2007 [RL07])。
@@ -38,8 +37,7 @@ Percent: パーセント<br>Number of Simultaneous Projects: 同時プロジェ�
 **[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)の1つのアイテムにチームの最大限の努力を集中させ、できるだけ早くすべての分かっている作業を完了させます。このアイテムを引き受ける人が、チームのキャプテンとなります。全員が、キャプテンを可能な限り助け、キャプテンの邪魔をしてはいけません。キャプテンがアイテムを完成させ次第、次のバックログアイテムを引き受ける人がキャプテンになります。**
 
 {:style="text-align:center;"}
-![ch02_26_25_Swarming_One_Piece_Continuous_Flow3](Images/ch02_26_25_Swarming_One_Piece_Continuous_Flow3.png)
-
+![ch02_26_25_Swarming_One_Piece_Continuous_Flow3](Images/ch02_26_25_Swarming_One_Piece_Continuous_Flow3.png)<br>
 Part Flow: モノの流れ<br>Lathe: 旋盤<br>Mill: フライス盤<br>Lathe: 旋盤<br>Mill: フライス盤<br>Drill: ドリル<br>Grinder: 研磨機<br>Mill: フライス盤
 
 出典： 「ザ・トヨタウェイ（上）」 ライカー著　ー純利益1兆円を突破した世界最強メーカーを支える14の原則を徹底解明ー2004年 第8章 図8-4[Lik04]

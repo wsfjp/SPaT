@@ -17,8 +17,7 @@
 ステークホルダーは、その性格上、スクラムの取り組みの成功に対して利害関係があります。そのため、開発の取り組みに関与したいということは自然です。プロダクトの責任を持つステークホルダーは、作業の詳細を指示する権限があると、より安心できます。しかし、[開発チーム](ch02_14_14_Development_Team.md)の外部にいるステークホルダーは、開発作業の詳細を知らない可能性が高いため、彼らが望む方針や手続きがチームのニーズに合わないか、[Greatest Value](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/greatest-value)に貢献しない可能性があります。また、​[スクラムチーム](ch02_07_7_Scrum_Team.md)​が大企業の構造内で作業を行うとき、その構造が、プロダクトやその展開について表面的な知識しかないのに、企業の投資対効果を気にして、ビジネス目標を押し付けたり、開発の方向性を変えるかもしれません。少なくとも、これらの介入は、企業がチームの自主性を信じていないという微妙だが明確なメッセージになります。これは「我々対彼ら」の心理を生むことになり、信頼を損います（`4.1.1. 信頼で結ばれた共同体`を参照）。
 
 {:style="text-align:center;"}
-![ch02_16_16_Autonomous_Team2](Images/ch02_16_16_Autonomous_Team2.png)
-
+![ch02_16_16_Autonomous_Team2](Images/ch02_16_16_Autonomous_Team2.png)<br>
 Control: コントロール<br>Disrupted coordination: 妨げられる調整<br>Uncertainty delay: 不確実性による遅延<br>No consequence from results - no learning: 結果に対する結論がないー学びがない
 
 善意のある組織は往々にして、より大きな利益のために作られた「ベストプラクティス」を定義することにより、範囲の経済性を追求しがちです。経営者や管理組織は、しばしばこのようなプラクティスを標準として規定します。リーンの原則に基づけば、標準は有効なはずです。しかし、あるチームのベストプラクティスは、他のチームにとっては害となる可能性があります。チームは外部からの命令に従うのではなく、個人としても集団としても、自身が主導してこれらの採用を検討すべきです。
@@ -30,8 +29,7 @@ Control: コントロール<br>Disrupted coordination: 妨げられる調整<br>
 **[スクラムチーム](ch02_07_7_Scrum_Team.md)は、外部のコントロールに囚われずに決定し、外部との調整に注意を払うオープンなシステムでありながら、外部からの不当な影響は受けずに、価値追求に基づいて自らの方向性を定めます。これをさらに進めると、[Production Episode](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/production-episode)の間、[開発チーム](ch02_14_14_Development_Team.md)は外部からの干渉を受けずに自己統治します。**
 
 {:style="text-align:center;"}
-![ch02_16_16_Autonomous_Team3](Images/ch02_16_16_Autonomous_Team3.png)
-
+![ch02_16_16_Autonomous_Team3](Images/ch02_16_16_Autonomous_Team3.png)<br>
 Scrum master: スクラムマスター<br>Fast decisions: 迅速な意思決定<br>Shared vision: 共有されたビジョン<br>Consensus: 合意<br>Uninterrupted coordination: 妨げられずに調整<br>Feedback & learning: フィードバックと学習
 
 {:style="text-align:center;"}

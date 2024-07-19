@@ -13,15 +13,13 @@
 **知識労働のような複雑な共同開発を効果的に行うには、高品質のコミュニケーションが必要になります。この成功のために必要なコミュニケーションのタイミング、頻度、長さを予測することは困難です。**
 
 {:style="text-align:center;"}
-![ch02_08_8_Collocated_Team2](Images/ch02_08_8_Collocated_Team2.png)
-
+![ch02_08_8_Collocated_Team2](Images/ch02_08_8_Collocated_Team2.png)<br>
 noise: ノイズ<br>delay: 遅れ<br>local artifacts: 場所固有の作成物<br>meeting travel: 会議のための旅行<br>waiting: 待ち<br>local artifacts: 場所固有の作成物
 
 人によっては独りで仕事をすることを好みますし、パーティションで仕切られた作業場所があれば、人々が集中するための場所になります。また、自分専用のオフィスを持つことは、成功したキャリアの証なのかもしれません。どちらの場合も、進捗の小さい明確な兆候、例えば待ち望んでいた荷物が届いたときの歓声や、個人状況の掲示板の更新などは視界に入らず、気にすることもありません。それを補うために、私たちは人が集まるためのミーティングスペースを予約します。どのビルでもミーティングスペースの数は少なく、一緒に過ごすためのオーバーヘッドは大きくなってしまいます。結果として、人々が集まろうとする意欲を失わせ、、人と人とのコミュニケーションは減少してしまいます。人々は、情報伝達の忠実性が低いコミュニケーション手段であるIM、電子メール、電話、ファックス、電報、Jiraチケット、伝書鳩、郵便などにしばしば頼ります。
 
 {:style="text-align:center;"}
-![ch02_08_8_Collocated_Team3](Images/ch02_08_8_Collocated_Team3.png)
-
+![ch02_08_8_Collocated_Team3](Images/ch02_08_8_Collocated_Team3.png)<br>
 Communication Effectiveness: コミュニケーションの有効性<br>Richness(“temperature”) of communication channel: コミュニケーション・チャネルの豊かさ（”温度”）<br>“Cold”: “冷たい”<br>“Hot”: “熱い”<br> (No Question-Anser): （質問と回答無し）<br>Paper: 紙<br>Audiotape: オーディオテープ<br>Videotape: ビデオテープ<br>(Question-and-Anser): （質問と回答有り）<br>2 people on email: 二人でemail<br>2 people on phone: 二人で電話<br>2 people at whiteboard: 二人でホワイトボード
 
 このグラフは、質問と回答が可能な場合とそうでない場合の2つの状況を表しています。”より暖かい”ということは、より多くの感情や情報が豊かに伝わることを示します（Agile Software Development [Coc06], pp.90-100）。
@@ -50,11 +48,7 @@ Distance Effects on Communications: コミュニケーションにおける距�
 **同じ場所にチームメンバーを集めて、理想的にはチーム専用の一室で、会話ができる距離にしましょう。**Alistair Cockburnは、チーム全員がスクールバス1台分の長さに収まるように座ることを提案しています（Agile Software Development [Coc06]、p.102）。
 
 {:style="text-align:center;"}
-![ch02_08_8_Collocated_Team5](Images/ch02_08_8_Collocated_Team5.png)
-
-{:style="text-align:center;"}
-
-
+![ch02_08_8_Collocated_Team5](Images/ch02_08_8_Collocated_Team5.png)<br>
 one mind: 心を一つに<br>instant feedback: 即座にフィードバック<br>shared resources: 共有リソース
 
 同じ場所に集まることで、一緒に働く人々は、その場限りの会話を気軽にできます。人々は常にかつ素早く情報を共有します。また、同じ場所に集まったスタッフは、仕事以外のカジュアルな会話を楽しむことができ、チームの結束が高まります。

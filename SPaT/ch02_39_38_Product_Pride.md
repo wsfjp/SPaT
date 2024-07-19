@@ -6,6 +6,9 @@
 ![ch02_39_38_Product_Pride1](Images/ch02_39_38_Product_Pride1.png)<br>
 工事現場で3人の人が働いていた。1人に「何をしているのですか？」と尋ねると、その人は「レンガを積んでいるんだ」と答えた。2人目に「何をしているのですか？」と尋ねると、その人は「壁を建てているんだ」と答えた。3人目に近づくと、彼が鼻歌まじりに作業をしているのを聞き、「何をしているのですか？」と尋ねた。その人は立ち上がり、空を見上げ、笑顔で「大聖堂を建てているのさ」と答えた。[37]
 
+{:style="text-align:center;"}
+
+
 …`4.1.1. 信頼で結ばれた共同体`（`4.1.1. 信頼で結ばれた共同体`を参照）があり、共通の​[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)を持っている。[スクラムチーム](ch02_07_7_Scrum_Team.md)はその[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)に向けて活動している。
 
 {:style="text-align:center;"}
@@ -43,6 +46,8 @@
 私たちの世界における2つの大きな悪は、群衆に安易に従ってしまうことと、あらゆる種類の破壊に対して明らかに無関心であることです（From The Irish Monthly 79 [Bir51]）。
 
 プライドを持つということは、自分自身の品質基準で仕事をし、その結果にオーナーシップを持つということです。これによって世の中に奉仕する自由の扉が開かれ、​チームは[Happiness Metric](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/happiness-metric)で示されるように、道徳的に一点の曇りもない仕事をしていると感じられるようになります。
+
+Footnotes
 
 [7]
 

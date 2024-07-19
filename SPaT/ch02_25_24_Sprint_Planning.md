@@ -13,8 +13,7 @@
 **スプリントでは、[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)を生み出すべきです。しかし、単純に[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)の一番上からPBIを取り出すだけでは、​[Greatest Value](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/greatest-value)や、[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)のタイムボックスに収まるプロダクトインクリメントを生み出すという成果を得られるとは限りません。**
 
 {:style="text-align:center;"}
-![ch02_25_24_Sprint_Planning2](Images/ch02_25_24_Sprint_Planning2.png)
-
+![ch02_25_24_Sprint_Planning2](Images/ch02_25_24_Sprint_Planning2.png)<br>
 sprint: スプリント<br>product backlog: プロダクトバックログ
 
 作業の順番を心配することなく、[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)の上から順番に作業できるといいのですが、いくつかの理由でいつもそうなるとは限りません。PBIのサイズは統一されておらず、チームは[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)のタイムボックスで、提供可能なプロダクトインクリメントを創る必要があります。そのためチームは何がフィットするかを考え、PBIの順番を入れ替え、さらにはPBIの内容を調整する必要があるかもしれません。
@@ -30,9 +29,8 @@ sprint: スプリント<br>product backlog: プロダクトバックログ
 **すべての[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)の最初に、[スクラムチーム](ch02_07_7_Scrum_Team.md)（または共同して開発し、プロダクトインクリメントを一緒に提供するすべてのチーム）は、[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)の期間中にどのように価値を創るかを計画するためのミーティングをします。チームは[Sprint Goal](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-goal)​に合意し、[開発チーム](ch02_14_14_Development_Team.md)が何をどのように開発するかについての計画を作成します。**これには、[スクラムチーム](ch02_07_7_Scrum_Team.md)がソリューションの詳細な設計を十分に行い、プロダクトをどのように構築するかについて高い確信を持ち、チームメンバーが[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)中に作業計画を完了できると感じることが必要です（[Granularity Gradient](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog/granularity-gradient)を参照）。
 
 {:style="text-align:center;"}
-![ch02_25_24_Sprint_Planning3](Images/ch02_25_24_Sprint_Planning3.png)
-
-sprint: スプリント<br>product backlog: プロダクトバックログ<br>2: 2<br>6: 6<br>product increment: プロダクトインクリメント<br>PBI 4: PBI 4<br>PBI 3: PBI 3<br>product increment: プロダクトインクリメント<br>PBI 5: PBI 5<br>PBI 1: PBI 1
+![ch02_25_24_Sprint_Planning3](Images/ch02_25_24_Sprint_Planning3.png)<br>
+sprint: スプリント<br>product backlog: プロダクトバックログ<br>product increment: プロダクトインクリメント<br>product increment: プロダクトインクリメント
 
 [スプリントプランニング](ch02_25_24_Sprint_Planning.md)は、[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)の最初の活動です。これは、[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)と[開発チーム](ch02_14_14_Development_Team.md)の作業計画との間を[Value Stream](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream)に沿って移行する期間です。
 

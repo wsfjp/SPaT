@@ -23,8 +23,7 @@
 **ベロシティを制御する期間と、プロセス改善のスパイクを交互に行ないます。**これを「継続的な改善」ではなく、「断続的な改善」と呼ぶこともできます。まず、ベロシティの基準を設定し、それを統計的にコントロールすることから始めます（ベロシティの経験則として、その変動を20％以内に減少させます）。次に、プロダクト開発に新しい改善を1つ導入します。[開発チーム](ch02_14_14_Development_Team.md)、または適切なら​[プロダクトオーナー](ch02_11_11_Product_Owner.md)​や​[スクラムマスター](ch02_20_19_ScrumMaster.md)​​は、Jon Jaggerが97 Things Every Programmer Should Know [Hen10]、pp. 44--45で説明するように、意図的な訓練に取り組みます。改善を実践し、たゆまぬ反復によってそれを習慣にします。
 
 {:style="text-align:center;"}
-![ch02_27_26_Kaizen_Pulse2](Images/ch02_27_26_Kaizen_Pulse2.png)
-
+![ch02_27_26_Kaizen_Pulse2](Images/ch02_27_26_Kaizen_Pulse2.png)<br>
 Organizational capability: 組織の能力<br>Time: 時間<br>Continuous improvement: 継続的な改善<br>Institutionalize and practice: 仕組み化して実践する<br>Forget and lose: 忘れ去られ、失われる<br>Toyota: トヨタ<br>Company X: ○○社
 
 出典： Takeuchi et al., Extreme Toyota: Radical Contradictions That Drive Success at the World’s Best Manufacturer [OSTD08 TOS08], p. 84.

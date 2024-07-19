@@ -4,7 +4,12 @@
 
 {:style="text-align:center;"}
 ![ch02_37_36_Sprint_Retrospective1](Images/ch02_37_36_Sprint_Retrospective1.png)<br>
+
+
 ...​[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)​の終わりが近づき、次のスプリントの準備をしています。当然ながら、今回のスプリントがどんなにうまくいったとしても、改善したいと思うでしょう。
+
+{:style="text-align:center;"}
+
 
 {:style="text-align:center;"}
 ＊　　＊　　＊

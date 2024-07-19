@@ -2,7 +2,6 @@
 
 確信度：★★
 
-{:style="text-align:center;"}
 ![ch02_11_11_Product_Owner1](Images/ch02_11_11_Product_Owner1.png)<br>
 ヘンリー・フォードは、自ら思い描いた車を（斧で叩いて）テストした。車は彼の会社が、麻から作ったものだった。
 
@@ -13,8 +12,7 @@
 **ひとりが、[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)に責任を持つ必要があります。**この人物には、深いドメイン知識や、ビジネスの洞察力、プロダクトの技術や技術的な依存関係への理解、そしてビジネス価値を最大化するために、バックログを強制的に順位付けする権限が必要です。
 
 {:style="text-align:center;"}
-![ch02_11_11_Product_Owner2](Images/ch02_11_11_Product_Owner2.png)
-
+![ch02_11_11_Product_Owner2](Images/ch02_11_11_Product_Owner2.png)<br>
 Vision: ビジョン<br>Customers: 顧客<br>Product: プロダクト<br>Developers: 開発者
 
 [スクラムチーム](ch02_07_7_Scrum_Team.md)のメンバーは、価値提供に集中するために、単一の、よく整えられ、順序づけられた、[Product Backlog Item](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog/product-backlog-item)​sのリストを必要とします。このリストがなければ、チームは市場に使われることのない機能や、ほとんど使われない機能を作ってしまうかもしれません（そしてチームはそれを維持する労力を払うことになります）。また、チームは間違ったタイミングで機能を提供したり（収益の部分最適化）、何も提供しないかもしれません。チームのベロシティを支え最大化するために、スクラムチームは適切なタイミングにバックログを必要とします。しかし、委員会方式ではこの適切なタイミングを実現できません。また、委員会では妥協を含み、やや一貫性を欠いた結論になりがちです。
@@ -32,8 +30,7 @@ Vision: ビジョン<br>Customers: 顧客<br>Product: プロダクト<br>Develop
 **[プロダクトオーナー](ch02_11_11_Product_Owner.md)を起用し、[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)の順序付けを任せ、プロダクトのビジョンとそのビジョンの実現から生まれる価値に対する責任を持ってもらいます。**
 
 {:style="text-align:center;"}
-![ch02_11_11_Product_Owner3](Images/ch02_11_11_Product_Owner3.png)
-
+![ch02_11_11_Product_Owner3](Images/ch02_11_11_Product_Owner3.png)<br>
 Ideas: アイデア<br>Customers: 顧客<br>Consistent vision: 一貫したビジョン<br>Product: プロダクト<br>ideas: アイデア<br>Developers: 開発者
 
 {:style="text-align:center;"}

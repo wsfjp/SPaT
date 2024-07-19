@@ -15,8 +15,7 @@
 あなたは、特に熟練した[開発チーム](ch02_14_14_Development_Team.md)​のメンバーが来るまで、チームメンバーがいつも、決定や重要な作業を先延ばしにしていることに気付きます。しかし、[スクラムマスター](ch02_20_19_ScrumMaster.md)として、全てのチームメンバーに、それぞれの能力に応じて最適にパフォーマンスを発揮して欲しいと望んでいます。
 
 {:style="text-align:center;"}
-![ch02_28_27_Remove_the_Shade2](Images/ch02_28_27_Remove_the_Shade2.png)
-
+![ch02_28_27_Remove_the_Shade2](Images/ch02_28_27_Remove_the_Shade2.png)<br>
 “The hero”: 「ヒーロー」<br>The others: その他の人たち
 
 熟練したチームメンバーは、特に重要な仕事が迫ってくると、常に組織に呼ばれる存在です。なぜなら、その人が最終的な意思決定を主導する可能性が高いと誰もが知っているからです。熟練したチームメンバーは、ビジネスが迅速な解決を必要とするときに呼び出され、ヒーローの役割を果たすことがよくあります。[開発チーム](ch02_14_14_Development_Team.md)の他のメンバーは、複雑な課題を放棄する傾向になりがちです。なぜなら、ヒーローの方が複雑な課題をうまく解決できるし、いずれにしても組織がヒーローの意見を求めることを知っているからです。
@@ -30,8 +29,7 @@
 **大きな木が嵐で倒れた後に花に光があたるように、ヒーローをチームから取り除き、残りのメンバーが成長できるようにしてください。**ヒーローの才能を発揮できる他の場所を見つけてください。おそらく会社や組織の他の場所になるでしょう。
 
 {:style="text-align:center;"}
-![ch02_28_27_Remove_the_Shade3](Images/ch02_28_27_Remove_the_Shade3.png)
-
+![ch02_28_27_Remove_the_Shade3](Images/ch02_28_27_Remove_the_Shade3.png)<br>
 Before: ビフォー<br>After: アフター<br>Development team: 開発チーム
 
 {:style="text-align:center;"}
