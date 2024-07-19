@@ -2,6 +2,7 @@
 
 確信度：★★
 
+{:style="text-align:center;"}
 ![ch02_31_30_ScrumMaster_Incognito1](Images/ch02_31_30_ScrumMaster_Incognito1.png)<br>
 この写真の中にいるスクラムマスターを探してみよう。
 

@@ -2,8 +2,12 @@
 
 確信度：★★
 
+{:style="text-align:center;"}
 ![ch02_04_4_Conway_s_Law1](Images/ch02_04_4_Conway_s_Law1.png)<br>
 図の出典 : Manu Cornet / http://www.bonkersworld.net
+
+{:style="text-align:center;"}
+
 
 ...物事がうまくいっているとき、誰もが純粋な情熱を持ってやるべきことをやっていて、とてもシームレスで、誰もがお互いの心を読めているかのように、傍目には見えます。しかし、組織やプロダクトが成長するにつれ、仕事を完成するためにチームが習得、管理、共有しなければならない情報の量も増えていきます。意思決定は、更に（チームとプロダクトの両方の）コンテキストに敏感になり複雑さを伴うために、物事を円滑に進められるよう維持するためには、組織が成熟するにつれて何らかの構造が必要となります。あなたは​[Greatest Value](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/greatest-value)を生み出すために、チームが最適に物事を成し遂げられるような組織構造を探っています。
 

@@ -2,6 +2,7 @@
 
 確信度：★★
 
+{:style="text-align:center;"}
 ![ch02_11_11_Product_Owner1](Images/ch02_11_11_Product_Owner1.png)<br>
 ヘンリー・フォードは、自ら思い描いた車を（斧で叩いて）テストした。車は彼の会社が、麻から作ったものだった。
 

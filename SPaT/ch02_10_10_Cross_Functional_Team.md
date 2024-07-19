@@ -2,6 +2,7 @@
 
 確信度：★★
 
+{:style="text-align:center;"}
 ![ch02_10_10_Cross_Functional_Team1](Images/ch02_10_10_Cross_Functional_Team1.png)<br>
 チームは全体として、プロダクトの提供に必要なすべての才能を備える必要がある。
 

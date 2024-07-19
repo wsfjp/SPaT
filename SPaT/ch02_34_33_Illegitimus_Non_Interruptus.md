@@ -2,6 +2,7 @@
 
 確信度：★
 
+{:style="text-align:center;"}
 ![ch02_34_33_Illegitimus_Non_Interruptus1](Images/ch02_34_33_Illegitimus_Non_Interruptus1.png)<br>
 ガワー共有地の牛たち
 
