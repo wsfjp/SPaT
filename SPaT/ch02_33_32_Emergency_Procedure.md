@@ -74,6 +74,7 @@
 
 「フェイルセーフ」や「ミスの防止」という意味の「ポカヨケ」は、英語でも”Poka-yoke”として知られています。「ポカヨケ」は、リーン製造プロセスにおける、装置の操作者がミス（ポカ）を避ける（ヨケ）ためのメカニズムの総称です。その目的は、ヒューマンエラーが発生する際にそれを防ぐ、訂正する、注意を向けることで、製品の欠陥を排除することです。[31]
 
+{:style="text-align:center;"}
 ![ch02_33_32_Emergency_Procedure2](Images/ch02_33_32_Emergency_Procedure2.png)<br>
 訳注：F14戦闘機 緊急手動脱出手順<br>(NATOPS POCKET CHECKLIST F-14B AIRCRAFT)
 
