@@ -36,7 +36,7 @@ Silver bullet procedure: 銀の弾丸的な最強手順
 
 それゆえ：
 
-**開発チームは、仕事を「完成」（`完成の定義`を参照）させるべく、自らを組織化しましょう。**自らの仕事をどのように行うかについては、開発チームのみが責任を負います。
+**開発チームは、仕事を「完成」（[Definition of Done](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/definition-of-done)を参照）させるべく、自らを組織化しましょう。**自らの仕事をどのように行うかについては、開発チームのみが責任を負います。
 
 {:style="text-align:center;"}
 ![ch02_17_17_Self_Organizing_Team3](Images/ch02_17_17_Self_Organizing_Team3.png)
@@ -54,9 +54,9 @@ Part 1: パーツ１<br>Part 2: パーツ２<br>Part 3: パーツ３<br>Work pla
 
 当然ながら、自己組織化はチームが小さく（[小さなチーム](ch02_09_9_Small_Teams.md)）、同じ場所に集まっている（[同じ場所に集まったチーム](ch02_08_8_Collocated_Team.md)​s）と最も行いやすくなります。どちらの場合も実務が容易になるためです。
 
-このパターンは、スクラムの中核となるプラクティスのうちの１つです。​`スプリント`​での作業を最も効率的な方法で進めることができるようになります。開発チームのモラルを改善します（そして、パフォーマンスが改善したという証拠もあります。Small Group Research 48 [JTAL16]を参照してください）。開発チームが自分自身を検証し、改善できるようになります（​[スプリントレトロスペクティブ](ch02_37_36_Sprint_Retrospective.md)、`スクラムでスクラムを改善`、`幸福指標`を例として参照）。これにより、開発チームは自己治癒力、つまり自分たちの欠陥を理解することができ、修正する力を持つようになるのです。これはスクラム組織が習得すべき最も重要なパターンの１つです。
+このパターンは、スクラムの中核となるプラクティスのうちの１つです。​[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)​での作業を最も効率的な方法で進めることができるようになります。開発チームのモラルを改善します（そして、パフォーマンスが改善したという証拠もあります。Small Group Research 48 [JTAL16]を参照してください）。開発チームが自分自身を検証し、改善できるようになります（​[スプリントレトロスペクティブ](ch02_37_36_Sprint_Retrospective.md)、[Scrumming the Scrum](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/scrumming-the-scrum)、[Happiness Metric](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/happiness-metric)を例として参照）。これにより、開発チームは自己治癒力、つまり自分たちの欠陥を理解することができ、修正する力を持つようになるのです。これはスクラム組織が習得すべき最も重要なパターンの１つです。
 
 ビジネスが開発チームの自己組織化を認めた時、チームは自由と、それにみあった責任の両方を得ることになります。これは`4.1.1. 信頼で結ばれた共同体`への入り口です。プロダクトをどう構築するかについて、自分たち自身が発言するチームは、自分たち自身とプロダクトの両方により誇りを持つようになるでしょう。それぞれ、`4.2.13. チームのプライド`(`4.2.13. チームのプライド`のパトレット) と[プロダクトプライド](ch02_39_38_Product_Pride.md)を参照してください。
 
-`開発者が順序付けた作業計画`、[スウォーミング：1個流し](ch02_26_25_Swarming_One_Piece_Continuous_Flow.md)、 `4.1.14. 非公式の労働計画`も参照してください。
+[Developer-Ordered Work Plan](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-backlog/developer-ordered-work-plan)、[スウォーミング：1個流し](ch02_26_25_Swarming_One_Piece_Continuous_Flow.md)、 `4.1.14. 非公式の労働計画`も参照してください。
 

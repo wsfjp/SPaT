@@ -5,7 +5,7 @@
 {:style="text-align:center;"}
 ![ch02_26_25_Swarming_One_Piece_Continuous_Flow1](Images/ch02_26_25_Swarming_One_Piece_Continuous_Flow1.png)
 
-...組織、チーム、個人は、共同で作業して仕事を完成（`完成の定義`を参照）します。[プロダクトオーナー](ch02_11_11_Product_Owner.md)​の責任は、価値の提供を最大化するために`プロダクトバックログ`を並べることですが、[開発チーム](ch02_14_14_Development_Team.md)の責任は、生産のフローを最大化するために`スプリントバックログ`を実装順に並べることです。（`開発者が順序付けた作業計画`を参照。）
+...組織、チーム、個人は、共同で作業して仕事を完成（[Definition of Done](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/definition-of-done)を参照）します。[プロダクトオーナー](ch02_11_11_Product_Owner.md)​の責任は、価値の提供を最大化するために[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)を並べることですが、[開発チーム](ch02_14_14_Development_Team.md)の責任は、生産のフローを最大化するために[Sprint Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-backlog)を実装順に並べることです。（[Developer-Ordered Work Plan](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-backlog/developer-ordered-work-plan)を参照。）
 
 {:style="text-align:center;"}
 ＊　　＊　　＊
@@ -18,7 +18,7 @@
 
 最適な生産管理は、仕掛中の作業を最小限にすることを目指します。仕掛中の作業は、ストレージスペースを必要とし、投資可能な資本を束縛し、製品の使用期限を早めるリスクを伴います。ある生産工程へのキューは、前工程の供給不足に対して十分にバッファがあることを示しますが、前工程の出力に対して後工程の処理能力が不足していることを示しているのかもしれません。[29]
 
-並行作業でスループットを向上させようとするチームを考えてみてください。メンバーは個々に、一度に一つの`プロダクトバックログアイテム`​ (PBI)に取り組んでいます。単独で作業すると、[開発チーム](ch02_14_14_Development_Team.md)のメンバーは、テストよりも、アイテムの構築に集中する可能性が高いでしょう。一つの理由は、テストへの専門知識や意欲が、設計や構築のクリエイティブなタスクへの専門知識や意欲より少ないためです。​`スプリント`中に複数の作業アイテムが遅延すると、`スプリント`の終了時にPBIを完成できないリスクが高まります。さらに悪いことに、シリコンバレーとヨーロッパでは、複雑なソフトウェアに取り組む一部のチームは、`スプリント`内でバグを特定して修正しないと、コーディング完了時の1時間のテストが、3週間後の24時間のテストに変わってしまいます。チームがスウォーミングの代わりにテストを延期すると、1か月で提供できるものが2年かかることもあります。
+並行作業でスループットを向上させようとするチームを考えてみてください。メンバーは個々に、一度に一つの[Product Backlog Item](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog/product-backlog-item)​ (PBI)に取り組んでいます。単独で作業すると、[開発チーム](ch02_14_14_Development_Team.md)のメンバーは、テストよりも、アイテムの構築に集中する可能性が高いでしょう。一つの理由は、テストへの専門知識や意欲が、設計や構築のクリエイティブなタスクへの専門知識や意欲より少ないためです。​[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)中に複数の作業アイテムが遅延すると、[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)の終了時にPBIを完成できないリスクが高まります。さらに悪いことに、シリコンバレーとヨーロッパでは、複雑なソフトウェアに取り組む一部のチームは、[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)内でバグを特定して修正しないと、コーディング完了時の1時間のテストが、3週間後の24時間のテストに変わってしまいます。チームがスウォーミングの代わりにテストを延期すると、1か月で提供できるものが2年かかることもあります。
 
 この問題をさらに難しくしているは、ジェラルド(ジェリー)・ワインバーグが提供している経験則モデルで、マルチタスクが仕事の完成を遅らせるというものです（Quality Software Management: Volume 1, Systems Thinking [Wei92], p. 284):
 
@@ -35,7 +35,7 @@ Percent: パーセント<br>Number of Simultaneous Projects: 同時プロジェ�
 
 それゆえ：
 
-**`プロダクトバックログ`の1つのアイテムにチームの最大限の努力を集中させ、できるだけ早くすべての分かっている作業を完了させます。このアイテムを引き受ける人が、チームのキャプテンとなります。全員が、キャプテンを可能な限り助け、キャプテンの邪魔をしてはいけません。キャプテンがアイテムを完成させ次第、次のバックログアイテムを引き受ける人がキャプテンになります。**
+**[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)の1つのアイテムにチームの最大限の努力を集中させ、できるだけ早くすべての分かっている作業を完了させます。このアイテムを引き受ける人が、チームのキャプテンとなります。全員が、キャプテンを可能な限り助け、キャプテンの邪魔をしてはいけません。キャプテンがアイテムを完成させ次第、次のバックログアイテムを引き受ける人がキャプテンになります。**
 
 {:style="text-align:center;"}
 ![ch02_26_25_Swarming_One_Piece_Continuous_Flow3](Images/ch02_26_25_Swarming_One_Piece_Continuous_Flow3.png)
@@ -57,17 +57,17 @@ Part Flow: モノの流れ<br>Lathe: 旋盤<br>Mill: フライス盤<br>Lathe: �
 {:style="text-align:center;"}
 ＊　　＊　　＊
 
-チームのスウォーミングは、個人よりもチーム全体に焦点を当てたアイデンティティをチームが維持することによって促進できます。卓越した個人の業績に対する報酬を制限するか、排除してください。残業、残業手当、一生懸命働くことを価値とする労働倫理を排除することで「ヒーロー文化」に対抗します。一度に一つのPBIに取り組むことで、チームメンバーの新しいスキルセットが広がり、複数のスキルを持つ個人が増えることになります。また、明確に述べられた​`スプリントゴール`を持つことで、チームが毎`スプリント`で素晴らしいことを達成する動機付けにもなります。
+チームのスウォーミングは、個人よりもチーム全体に焦点を当てたアイデンティティをチームが維持することによって促進できます。卓越した個人の業績に対する報酬を制限するか、排除してください。残業、残業手当、一生懸命働くことを価値とする労働倫理を排除することで「ヒーロー文化」に対抗します。一度に一つのPBIに取り組むことで、チームメンバーの新しいスキルセットが広がり、複数のスキルを持つ個人が増えることになります。また、明確に述べられた​[Sprint Goal](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-goal)を持つことで、チームが毎[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)で素晴らしいことを達成する動機付けにもなります。
 
- ​`スクラムボード<br>`上の最優先のPBIに取り組むことによって、個人やチームは、`スプリント`におけるフローの最大化のために、自己組織化しやすくなります。デンマークのSystematic A/Sは、このパターンを実施することで、会社のすべてのチームの生産性が倍増したことを示しました（Proceedings of Agile 2007 [SJJ07]）。Citrix Onlineは、このパターンを企業レベルで適用し、リリースサイクルを42ヶ月から10ヶ月未満に短縮し、そのプロダクトの市場シェアを大幅に拡大しました（Proceedings of 43rd Hawaii International Conference on System Sciences [Gre10]）。
+ ​[Scrum Board](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/information-radiator/scrum-board)上の最優先のPBIに取り組むことによって、個人やチームは、[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)におけるフローの最大化のために、自己組織化しやすくなります。デンマークのSystematic A/Sは、このパターンを実施することで、会社のすべてのチームの生産性が倍増したことを示しました（Proceedings of Agile 2007 [SJJ07]）。Citrix Onlineは、このパターンを企業レベルで適用し、リリースサイクルを42ヶ月から10ヶ月未満に短縮し、そのプロダクトの市場シェアを大幅に拡大しました（Proceedings of 43rd Hawaii International Conference on System Sciences [Gre10]）。
 
 このパターンを適用することにより、チームは一個流しのフローに移行します。トヨタはこれが生産能力を最適化することを示しました：
 
 理想では、一個流しとは、ある付加価値工程から次の付加価値工程まで、待ち時間ゼロ、ロットまとめなしで部品が直接移動し、顧客に納入されることをいう。長年、私たちはこれを「連続的流れ生産」と呼んできた。トヨタがいまこれを「一個流し生産」と呼ぶのは、多くのメーカーが自社の連続的に動いているが付加価値工程間に仕掛けのあるラインを指して、「すべてが動いているので、わが社も連続的流れ生産をやっています」と間違ったことを言うからだろう。「一個流し生産」と呼べば、このような間違った解釈が難しくなる（マイク・ローザー. トヨタのカタ：驚異の業績を支える思考と行動のルーティン (Kindle の位置No.907-912).）。
 
-一度に一つの`プロダクトバックログアイテム`に取り組むことで、進行中の作業アイテム間の調整を不要にします。調整をする代わりに、チームは最も依存関係が少ないアイテムから作業を進めることができます。
+一度に一つの[Product Backlog Item](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog/product-backlog-item)に取り組むことで、進行中の作業アイテム間の調整を不要にします。調整をする代わりに、チームは最も依存関係が少ないアイテムから作業を進めることができます。
 
-チームは`開発者が順序付けた作業計画`で常に方向性を調整します。彼らは[デイリースクラム](ch02_30_29_Daily_Scrum.md)で集まり、毎日心を一つにして方向性を調整します。しかし、すべての方向性の変更は`スプリントゴール`の条件内で行われます。`スプリントゴール`は、チームが結束する中心となり、フローを方向付ける助けとなります。経験豊富な経営者であり技術投資家でもあるMark Gillettは、次のように述べています。「個人に対する一連のタスク（とおそらく引き継ぎ）が存在するかのように振る舞うチームは、PBI を「完成」するために必要なことを探し、動的にパートナーシップを組んで作業するチームに比べて、低い価値しか見いだせないでしょう。」緊密に連携して作業するチームは、プロダクトが何であるかについての共有ビジョンを築き、プロダクトや達成した事に対するプライドを育むことができます。詳しくは[プロダクトプライド](ch02_39_38_Product_Pride.md)を参照してください。
+チームは[Developer-Ordered Work Plan](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-backlog/developer-ordered-work-plan)で常に方向性を調整します。彼らは[デイリースクラム](ch02_30_29_Daily_Scrum.md)で集まり、毎日心を一つにして方向性を調整します。しかし、すべての方向性の変更は[Sprint Goal](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-goal)の条件内で行われます。[Sprint Goal](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-goal)は、チームが結束する中心となり、フローを方向付ける助けとなります。経験豊富な経営者であり技術投資家でもあるMark Gillettは、次のように述べています。「個人に対する一連のタスク（とおそらく引き継ぎ）が存在するかのように振る舞うチームは、PBI を「完成」するために必要なことを探し、動的にパートナーシップを組んで作業するチームに比べて、低い価値しか見いだせないでしょう。」緊密に連携して作業するチームは、プロダクトが何であるかについての共有ビジョンを築き、プロダクトや達成した事に対するプライドを育むことができます。詳しくは[プロダクトプライド](ch02_39_38_Product_Pride.md)を参照してください。
 
 スクラムコミュニティのメンバーたちも、何年もスウォーミングについて議論してきました。例として、Dan Rawsthorneの著書『Exploring Scrum: The Fundamentals, 2nd ed. [RS11]』を参照してください。
 

@@ -34,20 +34,20 @@ Cross-functional team: 機能横断チーム<br>Who is working on x ?: 誰がx�
 
 Cross-functional team: 機能横断チーム<br>Scrum of scrums: スクラムオブスクラム<br>Focus: 集中
 
-分割後も各チームが[機能横断チーム](ch02_10_10_Cross_Functional_Team.md)であり続け、自律的に`定期的なプロダクトインクリメント`を届けられるように、十分に広い分野をカバーしていることが重要です（[自律したチーム](ch02_16_16_Autonomous_Team.md)を参照）。新しいチームはそれぞれ、プロダクトの全ての部分の作業をする権限を持つべきです。
+分割後も各チームが[機能横断チーム](ch02_10_10_Cross_Functional_Team.md)であり続け、自律的に[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)を届けられるように、十分に広い分野をカバーしていることが重要です（[自律したチーム](ch02_16_16_Autonomous_Team.md)を参照）。新しいチームはそれぞれ、プロダクトの全ての部分の作業をする権限を持つべきです。
 
 {:style="text-align:center;"}
 ＊　　＊　　＊
 
-新たな[開発チーム](ch02_14_14_Development_Team.md)は、それぞれが専任の[スクラムマスター](ch02_20_19_ScrumMaster.md)と開発者を持つべきです。新しいチームは元のチームと同じ`プロダクトバックログ`の作業を行い、同じ[プロダクトオーナー](ch02_11_11_Product_Owner.md)と一緒に作業します。何らかのプロダクトに取り組むチームはお互いに調整を行い、同じ作業環境を共有すべきです（[同じ場所に集まったチーム](ch02_08_8_Collocated_Team.md)を参照）が、`プロダクションエピソード`でそれぞれのチームが取り組む`プロダクトバックログアイテム`​sのデリバリーについては自律性を持つべきです。
+新たな[開発チーム](ch02_14_14_Development_Team.md)は、それぞれが専任の[スクラムマスター](ch02_20_19_ScrumMaster.md)と開発者を持つべきです。新しいチームは元のチームと同じ[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)の作業を行い、同じ[プロダクトオーナー](ch02_11_11_Product_Owner.md)と一緒に作業します。何らかのプロダクトに取り組むチームはお互いに調整を行い、同じ作業環境を共有すべきです（[同じ場所に集まったチーム](ch02_08_8_Collocated_Team.md)を参照）が、[Production Episode](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/production-episode)でそれぞれのチームが取り組む[Product Backlog Item](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog/product-backlog-item)​sのデリバリーについては自律性を持つべきです。
 
 別々のチームのメンバーは、非公式に連携を続け、必要に応じて[スクラムオブスクラム](ch02_35_34_Scrum_of_Scrums.md)​の日々のリズムも活用します。
 
-チームの成功に不可欠なある分野の専門家が、元のチームに一人だけいる場合があり、それは、結果として得られる一方のチームには、対応する知識が欠けていることを意味します。`セットベース設計`、[志を同じくする仲間](ch02_05_5_Birds_of_a_Feather.md)、`4.2.4. 徒弟制度`を利用して、できるだけ早く障害を取り除きます。その間、チームは不足している領域を最善を尽くして補います。
+チームの成功に不可欠なある分野の専門家が、元のチームに一人だけいる場合があり、それは、結果として得られる一方のチームには、対応する知識が欠けていることを意味します。[Set-Based Design](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/set-based-design)、[志を同じくする仲間](ch02_05_5_Birds_of_a_Feather.md)、`4.2.4. 徒弟制度`を利用して、できるだけ早く障害を取り除きます。その間、チームは不足している領域を最善を尽くして補います。
 
-1つのチームから2つのチームへの拡大は難しいものです。同じチームメンバーで構成される1つのチームの仕事を2つのチームで行うためには調整が必要になり、それによってベロシティー（`ベロシティについて`を参照）が、40％程度低下することがよくあります。チーム数が増えるにつれて、この割合は減少する可能性があります。これは、大規模にスケールする計画がある場合にのみスケーリングに意味があると言えるかもしれません。
+1つのチームから2つのチームへの拡大は難しいものです。同じチームメンバーで構成される1つのチームの仕事を2つのチームで行うためには調整が必要になり、それによってベロシティー（[Notes on Velocity](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/notes-on-velocity)を参照）が、40％程度低下することがよくあります。チーム数が増えるにつれて、この割合は減少する可能性があります。これは、大規模にスケールする計画がある場合にのみスケーリングに意味があると言えるかもしれません。
 
-新しいチームのうちの一つが特定のステークホルダーコミュニティを担当することが自然であると感じられる場合は、`バリューストリームの分割`または`価値の領域`​を検討してください。
+新しいチームのうちの一つが特定のステークホルダーコミュニティを担当することが自然であると感じられる場合は、[Value Stream Fork](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/value-stream-fork)または[Value Areas](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/value-areas)​を検討してください。
 
 インクリメンタルな成長と最終的な部分への分化は、Christopher Alexanderの「センター」の理論の根底にある基本的なプロセスであり、彼が構造の調和的な成長をどのように見ているかの核心である。彼は、『ザ・ネイチャー・オブ・オーダー　建築の美学と世界の本質　生命の現象  [Ale04a]』において、この一般的な原則を明らかにしています。また、『時を超えた建設の道 [Ale79]』の第24章（"修復のプロセス"）では、これらの原則をより具体的に探求しています。
 
