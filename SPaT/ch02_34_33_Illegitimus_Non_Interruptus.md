@@ -44,11 +44,11 @@ Product backlog:プロダクトバックログ<br>Field problem:現場の問題<
 
 この戦略によって、チームが[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)中に再計画をおこない、​[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)の完成品を提供する可能性を高めることができます。
 
-* チームは、過去のデータに基づいて、予期せぬアイテムのためのバッファを作成します。例えば、平均的にチームの仕事の3分の1が計画外の仕事で、予期せず[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)の作業になっているとしましょう。チームの[Notes on Velocity](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/notes-on-velocity)の平均が60ポイントの場合、チームは割り込みバッファとして20ポイントを確保します。
+1. チームは、過去のデータに基づいて、予期せぬアイテムのためのバッファを作成します。例えば、平均的にチームの仕事の3分の1が計画外の仕事で、予期せず[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)の作業になっているとしましょう。チームの[Notes on Velocity](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/notes-on-velocity)の平均が60ポイントの場合、チームは割り込みバッファとして20ポイントを確保します。
 
-2. 些細とは言えないすべての要求は、トリアージのために[プロダクトオーナー](ch02_11_11_Product_Owner.md)​を通す必要があります。（ウェブページのスペルミスやコンパイルエラーなどは、些細なエラーの例で、修正が明白でビジネス側からの洞察を加えても利益はありません。開発者は、[プロダクトオーナー](ch02_11_11_Product_Owner.md)にエスカレートする前に、些細とは言えない欠陥であっても、限られたタイムボックスの中で対処することがあります。）[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、ビジネスプランに対して見込まれる価値がないアイテムには低い優先順位を付けます。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、即座に価値があるとしても、他のアイテムの多くは後続のスプリントに回します。特に重要な限られたアイテムについて、チームとしては、進行中のスプリントで完了しなければならないため、[プロダクトオーナー](ch02_11_11_Product_Owner.md)はそれらを割り込みバッファに入れます。
+1. 些細とは言えないすべての要求は、トリアージのために[プロダクトオーナー](ch02_11_11_Product_Owner.md)​を通す必要があります。（ウェブページのスペルミスやコンパイルエラーなどは、些細なエラーの例で、修正が明白でビジネス側からの洞察を加えても利益はありません。開発者は、[プロダクトオーナー](ch02_11_11_Product_Owner.md)にエスカレートする前に、些細とは言えない欠陥であっても、限られたタイムボックスの中で対処することがあります。）[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、ビジネスプランに対して見込まれる価値がないアイテムには低い優先順位を付けます。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、即座に価値があるとしても、他のアイテムの多くは後続のスプリントに回します。特に重要な限られたアイテムについて、チームとしては、進行中のスプリントで完了しなければならないため、[プロダクトオーナー](ch02_11_11_Product_Owner.md)はそれらを割り込みバッファに入れます。
 
-3. バッファがあふれ始める、つまり[プロダクトオーナー](ch02_11_11_Product_Owner.md)がスプリントに20ポイントより1ポイントでも多く追加する場合、[スクラムチーム](ch02_07_7_Scrum_Team.md)は自動的にスプリントを中止し、スプリントを再計画しなければなりません。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は経営陣に日程の遅れを通知します。
+1. バッファがあふれ始める、つまり[プロダクトオーナー](ch02_11_11_Product_Owner.md)がスプリントに20ポイントより1ポイントでも多く追加する場合、[スクラムチーム](ch02_07_7_Scrum_Team.md)は自動的にスプリントを中止し、スプリントを再計画しなければなりません。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は経営陣に日程の遅れを通知します。
 
 これらのルールに関して経営陣の合意を得て、それを実施することが不可欠です。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は常にチームや他のステークホルダーと応対できる必要があります。[プロダクトオーナー](ch02_11_11_Product_Owner.md)が不在の場合、[スクラムチーム](ch02_07_7_Scrum_Team.md)はその役割を一時的に果たすために自分たちの中から代理を指名するべきです。
 
