@@ -11,5 +11,6 @@
 - 現状では、英語版出版時のデータを元に作業しており少し古い場合があります。
 - 翻訳の元原稿に近いデータは[scrumbook.org](https://scrumbook.org/)にあります。
 - フィードバックは、[githubのissue](https://github.com/wsfjp/SPaT/issues)でお願いします。
+- 組織パターン、Fearless Changeのパターンに関しては翻訳本の日本語表記とパターン番号、章節項で表記しています。
 
 
