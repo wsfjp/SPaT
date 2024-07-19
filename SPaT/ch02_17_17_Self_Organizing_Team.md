@@ -19,6 +19,7 @@
 
 複雑さを減らすべく、組織はプロセスや構造を標準化しようとします。これはベストプラクティスの採用によるかもしれませんし、組織文化の長年の積み重ねによる場合もあります。ベストプラクティスとは、特定の文脈の中で特定の目的を達成するために編み出されたものであり、適用したい組織には合わないかもしれません（Managing the Design Factory: A Product Developer's Toolkit [Rei98], p.184）。必要なのは「十分よさそう」なものだけであり、そこから先は創発によって導かれます。組織は状況によって、ある時期に独自のベストプラクティスとなる構造やプロセスを開発することがあり、それは確立されたプラクティスとなります。しかし、このようなアプローチは、しばらくの間はうまくいきますが、時間の経過とともにベストなプラクティスではなくなっていきます。経営手法の進歩や技術の向上により、ビジネスの状況は変化していきます。チームは新たな停滞期に入り、行き詰ってしまうかもしれません。
 
+{:style="text-align:center;"}
 ![ch02_17_17_Self_Organizing_Team2](Images/ch02_17_17_Self_Organizing_Team2.png)<br>
 Part 1: パーツ１<br>Part 2: パーツ２<br>Part 3: パーツ３<br>Silver bullet procedure: 銀の弾丸的な最強手順<br>part A connects with section B: パーツAをセクションBに接続する<br>Item 2 locks into section F on part A: アイテム２は、パーツAのセクションFに固定する<br>Always use part B last: パーツBを常に最後に用いる
 

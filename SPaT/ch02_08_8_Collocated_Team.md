@@ -38,6 +38,7 @@ Communication Effectiveness: コミュニケーションの有効性<br>Richness
 
 距離よりもさらに強力なのは、建物の構造上の特徴です。異なるオフィスは障害、異なる廊下は重大な障害、異なるビルの階は極度の障害、別々のビルは大惨事となります。世界最大の遠隔コミュニケーション会社のCEOは、遠隔コミュニケーションで人気の自社プロダクトは、複数拠点でのソフトウェア開発をサポートするのに適したツールではないと言っています。
 
+{:style="text-align:center;"}
 ![ch02_08_8_Collocated_Team4](Images/ch02_08_8_Collocated_Team4.png)<br>
 Distance Effects on Communications: コミュニケーションにおける距離の影響<br>Probability of communicating at least once a week: すくなくとも週に1回のコミュニケーションを取る確率<br>Separation distance (meters): 離れている距離（メートル）
 

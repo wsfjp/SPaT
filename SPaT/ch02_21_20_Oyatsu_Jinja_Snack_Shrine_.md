@@ -23,10 +23,9 @@
 
 **チームエリアの近くにキャンディー、スナック、飲み物（コーヒーまたはお茶）を用意し、[おやつ神社](ch02_21_20_Oyatsu_Jinja_Snack_Shrine_.md)を作りましょう。**神社はチームの作業エリアから十分に離れた場所に設置する必要があり、神社での会話がチームを邪魔しないようにします。しかし、神社はチームから十分に近い場所にあるべきで、神社とチームエリアの人々が互いを認識できるようにする必要があります。[おやつ神社](ch02_21_20_Oyatsu_Jinja_Snack_Shrine_.md)は、チームが神社での活動を観察できるように、秘密の場所ではいけません。神社を利用する人々がチームの邪魔にならないことも重要です。
 
+{:style="text-align:center;"}
 ![ch02_21_20_Oyatsu_Jinja_Snack_Shrine_3](Images/ch02_21_20_Oyatsu_Jinja_Snack_Shrine_3.png)<br>
-A Pattern Language [AIS77], "A Place to Waitˮ "より
-
-Activities where people meet: 人々が集まって活動<br>Quiet corners: 静かな場所<br>Within earshot of some signal: 何かしら音が耳に入る範囲
+A Pattern Language [AIS77], "A Place to Waitˮ "より<br>Activities where people meet: 人々が集まって活動<br>Quiet corners: 静かな場所<br>Within earshot of some signal: 何かしら音が耳に入る範囲
 
 チームメンバーは、神社で休憩しても構いません。スナックは人々がリラックスし、互いに交流する機会を提供します。神社は、他のメンバーの邪魔にならない形で、チームメンバーが話をしたり助けを求めたりする場所を作り出します。
 

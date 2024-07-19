@@ -31,6 +31,7 @@ greatest value: 最高の価値<br>VISION:ビジョン<br>product:プロダク�
 
 複雑な開発における問題に対処する良い方法は、短いフィードバックループを用いて、ステークホルダーがソリューションを評価することです。これにより、チームは大きく逸脱することなく迅速に適応できます。[スプリントレビュー](ch02_36_35_Sprint_Review.md)は、スプリントサイクル中の検討とフィードバックの中心です。[プロダクトオーナー](ch02_11_11_Product_Owner.md)はどんなステークホルダーでも[スプリントレビュー](ch02_36_35_Sprint_Review.md)に招待できます。キーとなるエンドユーザーを招待し、彼らのフィードバックを引き出すことが推奨されます。
 
+{:style="text-align:center;"}
 ![ch02_36_35_Sprint_Review3](Images/ch02_36_35_Sprint_Review3.png)<br>
 stakeholders:ステークホルダー<br>greatest value:最高の価値<br>product:プロダクト<br>VISION:ビジョン<br>end production episode:プロダクションエピソードの終わり<br>development team:開発チーム
 
