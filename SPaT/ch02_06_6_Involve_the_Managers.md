@@ -1,5 +1,7 @@
 # マネージャーを巻き込む
 
+ Original:[Involve the Managers](http://sites.google.com/a/scrumplop.org/published-patterns/unlinked-patterns/involve-the-managers)
+
 確信度：★
 
 {:style="text-align:center;"}

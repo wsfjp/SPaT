@@ -1,5 +1,7 @@
 # 有糸分裂
 
+ Original:[Mitosis](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/mitosis)
+
 確信度：★★
 
 {:style="text-align:center;"}

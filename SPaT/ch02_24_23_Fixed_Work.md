@@ -1,5 +1,7 @@
 # 枠を決めて作業
 
+ Original:[Fixed Work](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/fixed-work)
+
 {:style="text-align:center;"}
 ![ch02_24_23_Fixed_Work1](Images/ch02_24_23_Fixed_Work1.png)<br>
 メカニックは、レーシングカーのエンジンを調整する時間を、レースの完走タイムの予測とは別に計算する。レースのタイムは短縮され続けるのに対して、エンジンの調整は繰り返される作業である。

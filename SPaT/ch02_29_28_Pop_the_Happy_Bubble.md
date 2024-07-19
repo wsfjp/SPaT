@@ -1,5 +1,7 @@
 # ハッピーバブルをつつく
 
+ Original:[Pop the Happy Bubble](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/pop-the-happy-bubble)
+
 別名：ハッピーバブルを超えて
 
 {:style="text-align:center;"}

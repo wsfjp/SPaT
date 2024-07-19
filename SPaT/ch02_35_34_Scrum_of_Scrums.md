@@ -1,5 +1,7 @@
 # スクラムオブスクラム
 
+ Original:[Scrum of Scrums](http://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/scrum-of-scrums)
+
 確信度：★
 
 {:style="text-align:center;"}

@@ -1,5 +1,7 @@
 # 行動規範
 
+ Original:[Norms of Conduct](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/norms-of-conduct)
+
 {:style="text-align:center;"}
 ![ch02_32_31_Norms_of_Conduct1](Images/ch02_32_31_Norms_of_Conduct1.png)
 

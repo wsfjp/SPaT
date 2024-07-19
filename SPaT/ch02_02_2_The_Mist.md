@@ -1,5 +1,7 @@
 # もやもや
 
+ Original:[The Mist](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/the-mist)
+
 確信度：★
 
 {:style="text-align:center;"}

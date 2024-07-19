@@ -1,5 +1,7 @@
 # スウォーミング：一個流し
 
+ Original:[Swarming: One-Piece Continuous Flow](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/swarming--one-piece-continuous-flow)
+
 確信度：★★
 
 {:style="text-align:center;"}

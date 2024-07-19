@@ -1,5 +1,7 @@
 # スクラムマスター
 
+ Original:[ScrumMaster](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/scrummaster)
+
 確信度：★★
 
 {:style="text-align:center;"}

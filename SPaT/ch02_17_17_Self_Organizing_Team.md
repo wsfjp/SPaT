@@ -1,4 +1,6 @@
-# 自己組織型チーム
+# 自己組織化チーム
+
+ Original:[Self-Organizing Team](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/self-organizing-team)
 
 確信度：★★
 
@@ -32,7 +34,7 @@ Part 1: パーツ１<br>Part 2: パーツ２<br>Part 3: パーツ３<br>Silver b
 ![ch02_17_17_Self_Organizing_Team3](Images/ch02_17_17_Self_Organizing_Team3.png)<br>
 Part 1: パーツ１<br>Part 2: パーツ２<br>Part 3: パーツ３<br>Work plan: 作業計画
 
-開発チームは、日々の仕事のあらゆる面をコントロールします。例えば、開発チームは​[デイリースクラム](ch02_30_29_Daily_Scrum.md)ミーティングを行い、誰が何をするかを決めます。作業の順番を決め、​[スウォーミング：1個流し](ch02_26_25_Swarming_One_Piece_Continuous_Flow.md)をどのように行うかを決めます。開発チームは、メンバーの専門スキルや得意分野をどう活用するかを自分たちで決めます。これには、どうペアを組むかを決めることなども含まれます。
+開発チームは、日々の仕事のあらゆる面をコントロールします。例えば、開発チームは​[デイリースクラム](ch02_30_29_Daily_Scrum.md)ミーティングを行い、誰が何をするかを決めます。作業の順番を決め、​[スウォーミング：一個流し](ch02_26_25_Swarming_One_Piece_Continuous_Flow.md)をどのように行うかを決めます。開発チームは、メンバーの専門スキルや得意分野をどう活用するかを自分たちで決めます。これには、どうペアを組むかを決めることなども含まれます。
 
 {:style="text-align:center;"}
 ＊　　＊　　＊
@@ -47,5 +49,5 @@ Part 1: パーツ１<br>Part 2: パーツ２<br>Part 3: パーツ３<br>Work pla
 
 ビジネスが開発チームの自己組織化を認めた時、チームは自由と、それにみあった責任の両方を得ることになります。これは`4.1.1. 信頼で結ばれた共同体`への入り口です。プロダクトをどう構築するかについて、自分たち自身が発言するチームは、自分たち自身とプロダクトの両方により誇りを持つようになるでしょう。それぞれ、`4.2.13. チームのプライド`(`4.2.13. チームのプライド`のパトレット) と[プロダクトプライド](ch02_39_38_Product_Pride.md)を参照してください。
 
-[Developer-Ordered Work Plan](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-backlog/developer-ordered-work-plan)、[スウォーミング：1個流し](ch02_26_25_Swarming_One_Piece_Continuous_Flow.md)、 `4.1.14. 非公式の労働計画`も参照してください。
+[Developer-Ordered Work Plan](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-backlog/developer-ordered-work-plan)、[スウォーミング：一個流し](ch02_26_25_Swarming_One_Piece_Continuous_Flow.md)、 `4.1.14. 非公式の労働計画`も参照してください。
 

@@ -1,4 +1,6 @@
-# 自律型チーム
+# 自律したチーム
+
+ Original:[Autonomous Team](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/autonomous-team)
 
 別名：自己管理型チーム
 

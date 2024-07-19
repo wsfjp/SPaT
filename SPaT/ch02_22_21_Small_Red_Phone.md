@@ -1,5 +1,7 @@
 # 赤い携帯電話
 
+ Original:[Small Red Phone](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/small-red-phone)
+
 {:style="text-align:center;"}
 ![ch02_22_21_Small_Red_Phone1](Images/ch02_22_21_Small_Red_Phone1.png)
 

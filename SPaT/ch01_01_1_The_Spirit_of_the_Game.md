@@ -1,5 +1,7 @@
 # ゲームの精神
 
+ Original:[The Spirit of the Game](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/the-spirit-of-the-game)
+
 確信度：★★
 
 {:style="text-align:center;"}

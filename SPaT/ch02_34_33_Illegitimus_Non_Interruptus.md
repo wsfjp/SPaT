@@ -1,5 +1,7 @@
 # 割り込みに負けるな
 
+ Original:[Illegitimus Non Interruptus](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/illegitimus-non-interruptus)
+
 確信度：★
 
 {:style="text-align:center;"}

@@ -1,5 +1,7 @@
 # スプリントレトロスペクティブ
 
+ Original:[Sprint Retrospective](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint/sprint-retrospective)
+
 確信度：★★
 
 {:style="text-align:center;"}

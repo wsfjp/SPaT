@@ -1,5 +1,7 @@
 # スクラムチーム
 
+ Original:[Scrum Team](http://sites.google.com/a/scrumplop.org/published-patterns/scrum-core-pattern-language/scrum-team)
+
 確信度：★★
 
 {:style="text-align:center;"}

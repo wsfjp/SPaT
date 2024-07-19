@@ -1,5 +1,7 @@
 # スクラムマスターが隠れる
 
+ Original:[ScrumMaster Incognito](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint/daily-scrum/scrummaster-incognito)
+
 確信度：★★
 
 {:style="text-align:center;"}

@@ -1,5 +1,7 @@
 # 同じ場所に集まったチーム
 
+ Original:[Collocated Team](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/collocated-team)
+
 確信度：★★
 
 {:style="text-align:center;"}

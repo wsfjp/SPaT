@@ -1,5 +1,7 @@
 # プロダクトオーナー
 
+ Original:[Product Owner](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/product-owner)
+
 確信度：★★
 
 {:style="text-align:center;"}

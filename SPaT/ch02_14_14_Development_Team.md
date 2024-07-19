@@ -1,5 +1,7 @@
 # 開発チーム
 
+ Original:[Development Team](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team)
+
 別名：開発/デリバリーチーム
 
 確信度：★★
@@ -45,7 +47,7 @@
 
 スクラムの伝統では、チームの規模は7±2人を推奨していますが、効果的なチームはそれよりも小さい傾向があります。`4.2.2. 組織を細かくする`のパターン（「Organizational Patterns of Agile Software Development」[CH04]、セクション4.2.2）では、メンバー数は5人に近いことを推奨しています。私たちの経験によれば、最高の[開発チーム](ch02_14_14_Development_Team.md)は、わずか3人の開発者で構成されることもあります。
 
-[開発チーム](ch02_14_14_Development_Team.md)は、​[Sprint Goal](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-goal)に集中し、個々の開発のインクリメントを一緒に「スウォーミング」しながら、心を一つにして働くべきです。個人が「自分の持ち場で時間を費やす」のではありません（[スウォーミング：1個流し](ch02_26_25_Swarming_One_Piece_Continuous_Flow.md)を参照）。チームは、[デイリースクラム](ch02_30_29_Daily_Scrum.md)と呼ばれる進行中の作業を再計画するためのイベントを毎日開催します。
+[開発チーム](ch02_14_14_Development_Team.md)は、​[Sprint Goal](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-goal)に集中し、個々の開発のインクリメントを一緒に「スウォーミング」しながら、心を一つにして働くべきです。個人が「自分の持ち場で時間を費やす」のではありません（[スウォーミング：一個流し](ch02_26_25_Swarming_One_Piece_Continuous_Flow.md)を参照）。チームは、[デイリースクラム](ch02_30_29_Daily_Scrum.md)と呼ばれる進行中の作業を再計画するためのイベントを毎日開催します。
 
 独立した短期的なビジネスニーズを満たすために、小さな取り組みが生まれることがあります。そのような場合、チームを作るのは大げさすぎるかもしれません。`4.2.5. ソロ・バイオリニスト`を検討してください。
 

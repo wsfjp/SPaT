@@ -1,5 +1,7 @@
 # プロダクトオーナーチーム
 
+ Original:[Product Owner Team](http://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/product-owner-team)
+
 確信度：★
 
 {:style="text-align:center;"}

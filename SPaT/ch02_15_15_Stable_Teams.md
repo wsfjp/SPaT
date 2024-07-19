@@ -1,5 +1,7 @@
 # 安定したチーム
 
+ Original:[Stable Teams](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/stable-teams)
+
 確信度：★★
 
 {:style="text-align:center;"}

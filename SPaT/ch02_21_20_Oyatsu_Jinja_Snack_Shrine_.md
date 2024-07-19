@@ -1,5 +1,7 @@
 # おやつ神社
 
+ Original:[Oyatsu Jinja (Snack Shrine)](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/oyatsu-jinja)
+
 別名：スナック神社
 
 {:style="text-align:center;"}

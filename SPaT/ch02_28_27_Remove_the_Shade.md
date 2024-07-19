@@ -1,5 +1,7 @@
 # 日陰をなくす
 
+ Original:[Remove the Shade](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/remove-the-shade)
+
 別名：日なたに出す
 
 確信度：★★

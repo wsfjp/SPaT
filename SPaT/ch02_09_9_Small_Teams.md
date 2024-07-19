@@ -1,4 +1,6 @@
-# スモールチーム
+# 小さなチーム
+
+ Original:[Small Teams](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/small-teams)
 
 確信度：★★
 

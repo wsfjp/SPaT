@@ -1,5 +1,7 @@
 # 志を同じくする仲間
 
+ Original:[Birds of a Feather](http://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/birds-of-a-feather)
+
 確信度：★
 
 {:style="text-align:center;"}

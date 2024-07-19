@@ -1,4 +1,6 @@
-# 緊急手順
+# 緊急時手順
+
+ Original:[Emergency Procedure](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/emergency-procedure)
 
 別名：ラインを止めろ
 

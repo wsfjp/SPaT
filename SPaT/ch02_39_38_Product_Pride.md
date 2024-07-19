@@ -1,5 +1,7 @@
 # プロダクトプライド
 
+ Original:[Product Pride](http://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/product-pride)
+
 確信度：★
 
 {:style="text-align:center;"}

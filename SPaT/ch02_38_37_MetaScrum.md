@@ -1,5 +1,7 @@
 # メタスクラム
 
+ Original:[MetaScrum](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/metascrum)
+
 {:style="text-align:center;"}
 ![ch02_38_37_MetaScrum1](Images/ch02_38_37_MetaScrum1.png)<br>
 アメリカ航空諮問委員会（National Advisory Committee for Aeronautics）がワシントンで開催され、アメリカが航空開発において最先端に立つための計画が話し合われた。
