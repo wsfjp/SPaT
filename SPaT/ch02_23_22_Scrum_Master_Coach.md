@@ -1,4 +1,4 @@
-# スクラム(マスターの)コーチ
+# スクラム(マスター)コーチ
 
  Original:[Scrum (Master) Coach](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/scrummaster/scrum-master-coach)
 
