@@ -35,7 +35,7 @@ Product: プロダクト
 
 それゆえ：
 
-**この新しいプロダクトへの情熱を体現する個人が[プロダクトオーナー](ch02_11_11_Product_Owner.md)の役割を担います。ステークホルダーや将来の同僚となる可能性のある人々はその周りに集まり、[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)を明確に表現し、共に定義し、洗練させます。**[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)は、将来の「プロダクト組織」が作り出す先にある望ましい未来を、プロダクトがどのようにサポートするかを表現したものです（Product Organization Pattern Languageで説明されているように）。
+**この新しいプロダクトへの情熱を体現する個人が[プロダクトオーナー](ch02_11_11_Product_Owner.md)の役割を担います。ステークホルダーや将来の同僚となる可能性のある人々はその周りに集まり、[ビジョン](ch03_02_39_Vision.md)を明確に表現し、共に定義し、洗練させます。**[ビジョン](ch03_02_39_Vision.md)は、将来の「プロダクト組織」が作り出す先にある望ましい未来を、プロダクトがどのようにサポートするかを表現したものです（Product Organization Pattern Languageで説明されているように）。
 
 {:style="text-align:center;"}
 ![ch03_02_39_Vision3](Images/ch03_02_39_Vision3.png)<br>
@@ -44,7 +44,7 @@ Product: プロダクト<br>Vision: ビジョン
 {:style="text-align:center;"}
 ＊　　＊　　＊
 
-[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)には2つの要素があると考えることができます。1つ目は私たちが単に[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)と呼ぶもので、広範な将来の方向性です。一方、Product Visionは、その広範な方向性をより具体的なビジネス要素に分解したものです。[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)は、新たに生まれたグループがチームへと成長するように導く、柔軟で明確な集結地点となります。それは、思い描いたプロダクトの取り組みが、自分たちの人生、エンドユーザーとその他のステークホルダーの人生にどのように利益をもたらすかについて、システム思考的な理解を支えます。[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)の重要な側面の1つは、プロダクト自体に関するものです。Product Visionは、漠然とした綺麗事を超えた、かなり具体的なものです。Product Visionは、アイデアの背後にある情熱、アイデアの必要性、素晴らしいものを構築する実現可能性の交点にあります。通常、Product Vision（「Agile Product Management With Scrum: Creating Products That Customers Love, 1st ed.」[Pic10]、24ページ）は以下のことが考慮されています。
+[ビジョン](ch03_02_39_Vision.md)には2つの要素があると考えることができます。1つ目は私たちが単に[ビジョン](ch03_02_39_Vision.md)と呼ぶもので、広範な将来の方向性です。一方、Product Visionは、その広範な方向性をより具体的なビジネス要素に分解したものです。[ビジョン](ch03_02_39_Vision.md)は、新たに生まれたグループがチームへと成長するように導く、柔軟で明確な集結地点となります。それは、思い描いたプロダクトの取り組みが、自分たちの人生、エンドユーザーとその他のステークホルダーの人生にどのように利益をもたらすかについて、システム思考的な理解を支えます。[ビジョン](ch03_02_39_Vision.md)の重要な側面の1つは、プロダクト自体に関するものです。Product Visionは、漠然とした綺麗事を超えた、かなり具体的なものです。Product Visionは、アイデアの背後にある情熱、アイデアの必要性、素晴らしいものを構築する実現可能性の交点にあります。通常、Product Vision（「Agile Product Management With Scrum: Creating Products That Customers Love, 1st ed.」[Pic10]、24ページ）は以下のことが考慮されています。
 
 * プロダクトの主要な機能
 
@@ -54,19 +54,19 @@ Product: プロダクト<br>Vision: ビジョン
 
 * ベンダーがどのように利益を得るか
 
-[プロダクトオーナー](ch02_11_11_Product_Owner.md)は[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)を持ち、それを実現するために、第2章「Product Organization Pattern Language」を作り、[Value Stream](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream)を定義することから始めます。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)に向かう道筋を[Product Roadmap](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/release-plan/product-roadmap)として示し、ステークホルダーと協力して具体的で明示的な[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)に落とし込みます。これらはそれぞれ、様々な形式や度合いで、Product Organizationとりわけ[スクラムチーム](ch02_07_7_Scrum_Team.md)に対して[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)を明確にする役に立ちます。[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)は全員に、より大きな方向性と集団としての目的意識を与えます（`4.2.12. 目的の統一`を参照）。Product Organizationとチームは、今度は成果物を[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)の実現に向かっているかという観点から検証できます。チームはこの[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)の実現に向けた進捗を測定できます。
+[プロダクトオーナー](ch02_11_11_Product_Owner.md)は[ビジョン](ch03_02_39_Vision.md)を持ち、それを実現するために、第2章「Product Organization Pattern Language」を作り、[Value Stream](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream)を定義することから始めます。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は[ビジョン](ch03_02_39_Vision.md)に向かう道筋を[Product Roadmap](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/release-plan/product-roadmap)として示し、ステークホルダーと協力して具体的で明示的な[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)に落とし込みます。これらはそれぞれ、様々な形式や度合いで、Product Organizationとりわけ[スクラムチーム](ch02_07_7_Scrum_Team.md)に対して[ビジョン](ch03_02_39_Vision.md)を明確にする役に立ちます。[ビジョン](ch03_02_39_Vision.md)は全員に、より大きな方向性と集団としての目的意識を与えます（`4.2.12. 目的の統一`を参照）。Product Organizationとチームは、今度は成果物を[ビジョン](ch03_02_39_Vision.md)の実現に向かっているかという観点から検証できます。チームはこの[ビジョン](ch03_02_39_Vision.md)の実現に向けた進捗を測定できます。
 
-効果的な[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)を持つことは、方向性を設定する役に立ちますし、[スクラムチーム](ch02_07_7_Scrum_Team.md)を鼓舞し、統一し、チームの創造性を制限することなくその行動を形作る役にも立ちます。素晴らしい[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)は、朝、あなたをベッドから引っ張りだして、一日の活力を与えてくれます。[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)は、それを実現し、ステークホルダーに一連のプロダクトインクリメントを提供するための[Value Stream](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream)の作成と実行の道標となります。
+効果的な[ビジョン](ch03_02_39_Vision.md)を持つことは、方向性を設定する役に立ちますし、[スクラムチーム](ch02_07_7_Scrum_Team.md)を鼓舞し、統一し、チームの創造性を制限することなくその行動を形作る役にも立ちます。素晴らしい[ビジョン](ch03_02_39_Vision.md)は、朝、あなたをベッドから引っ張りだして、一日の活力を与えてくれます。[ビジョン](ch03_02_39_Vision.md)は、それを実現し、ステークホルダーに一連のプロダクトインクリメントを提供するための[Value Stream](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream)の作成と実行の道標となります。
 
-[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)は時間とともに進化し、プロダクトへの取り組みによって、すぐに元の[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)が的外れだったことが分かることもありますが、基本的な[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)は引き継がれ、さらに壮大な[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)になり得るものの礎となります。自分たちがアジャイルであるからこそ、進捗を[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)に向けて調整し、更に時間の経過とともに[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)自体を調整できます。
+[ビジョン](ch03_02_39_Vision.md)は時間とともに進化し、プロダクトへの取り組みによって、すぐに元の[ビジョン](ch03_02_39_Vision.md)が的外れだったことが分かることもありますが、基本的な[ビジョン](ch03_02_39_Vision.md)は引き継がれ、さらに壮大な[ビジョン](ch03_02_39_Vision.md)になり得るものの礎となります。自分たちがアジャイルであるからこそ、進捗を[ビジョン](ch03_02_39_Vision.md)に向けて調整し、更に時間の経過とともに[ビジョン](ch03_02_39_Vision.md)自体を調整できます。
 
-当時トヨタのCEOだった渡辺捷昭は、トヨタの戦略を方向づける[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)として「不可能な目標」を設定することを信条としていました。
+当時トヨタのCEOだった渡辺捷昭は、トヨタの戦略を方向づける[ビジョン](ch03_02_39_Vision.md)として「不可能な目標」を設定することを信条としていました。
 
 トヨタは目標の多くを意図的に曖昧にしており、従業員が異なる方向にエネルギーを注ぐことを可能にし、異なる機能の専門家たちに、いつも働いている硬直した縦割り組織を超えて協力するように仕向けます。例えば、渡辺は自らのゴールを「走れば走るほど空気がきれいになるクルマ、人を傷つけないクルマ、乗ると健康になるクルマ、無給油でアメリカ大陸を横断できるクルマを作ること」と語っている...。（Harvard Business Review 86）
 
-1970年代の終わりに、ビル・ゲイツとポール・アレンは「すべてのデスクとすべての家に1台のコンピューターを」というビジョンを持っていました。「魔法のようなブレークスルーが起きて、コンピューターが安価になり、誰もがコンピューターに手が届くようになった。」とき、その[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)は現実となりました。
+1970年代の終わりに、ビル・ゲイツとポール・アレンは「すべてのデスクとすべての家に1台のコンピューターを」というビジョンを持っていました。「魔法のようなブレークスルーが起きて、コンピューターが安価になり、誰もがコンピューターに手が届くようになった。」とき、その[ビジョン](ch03_02_39_Vision.md)は現実となりました。
 
 現在21世紀において、イーロン・マスクは「人類を多惑星種にする[39]」というビジョンに取り組んでいます。彼はすでに、打ち上げコストを下げるために再利用可能なロケットを作ることで、そのビジョンの実現に向けて着実に歩みを進めています。
 
-素晴らしい[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)は、ある種の卓越した[Greatest Value](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/greatest-value)を志向するものです。例えば、オランダのジャーナリストたちは、奴隷労働に頼らずにチョコレートバーを作るというビジョンから、Tony's Chocolonelyという新しいチョコレート会社を立ち上げました。
+素晴らしい[ビジョン](ch03_02_39_Vision.md)は、ある種の卓越した[Greatest Value](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/greatest-value)を志向するものです。例えば、オランダのジャーナリストたちは、奴隷労働に頼らずにチョコレートバーを作るというビジョンから、Tony's Chocolonelyという新しいチョコレート会社を立ち上げました。
 
