@@ -1,4 +1,6 @@
-# SprintBacklogItem
+# スプリントバックログアイテム
+
+ Original:[Sprint Backlog Item](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-backlog/sprint-backlog-item)
 
 確信度：★
 
