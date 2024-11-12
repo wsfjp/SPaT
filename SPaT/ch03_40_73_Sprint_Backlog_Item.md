@@ -16,7 +16,7 @@
 
 {:style="text-align:center;"}
 ![ch03_40_73_Sprint_Backlog_Item2](Images/ch03_40_73_Sprint_Backlog_Item2.png)<br>
-[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint): スプリント<br>Product: プロダクト
+Sprint: スプリント<br>Product: プロダクト<br>PBI: PBI
 
 Scrumはチームがリスクを管理するのを助けます。PBIは[スクラムチーム](ch02_07_7_Scrum_Team.md)が外部に向けたリスクを評価するために十分な情報を提供します。しかし、複雑な開発に起因するリスクについての洞察は提供しません。開発作業は本質的に創発的です。PBIはビジネス（エンドユーザーと市場）の観点で成果物を記述しますが、[開発チーム](ch02_14_14_Development_Team.md)はものづくりの観点で作業や見積もりを行います。
 
@@ -36,7 +36,7 @@ PBIを異なる視点で見ることで、より効果的な開発ができま�
 
 {:style="text-align:center;"}
 ![ch03_40_73_Sprint_Backlog_Item3](Images/ch03_40_73_Sprint_Backlog_Item3.png)<br>
-[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint): スプリント<br>Product: プロダクト<br>PBI: PBI<br>SBI: SBI
+Sprint: スプリント<br>Product: プロダクト<br>PBI: PBI<br>SBI: SBI
 
 {:style="text-align:center;"}
 ＊　　＊　　＊
