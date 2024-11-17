@@ -7,7 +7,8 @@
 確信度：★
 
 {:style="text-align:center;"}
-![ch03_03_40_Impediment_List1](Images/ch03_03_40_Impediment_List1.png)<br>
+![ch03_03_40_Impediment_List1](Images/ch03_03_40_Impediment_List1.png)
+
 …[スクラムチーム](ch02_07_7_Scrum_Team.md)は、プロダクトを前に進めようとしている。
 
 {:style="text-align:center;"}
