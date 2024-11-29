@@ -1,4 +1,6 @@
-## ¶43 スプリントバーンダウンチャート
+# スプリントバーンダウンチャート
+
+ Original:[Sprint Burndown Chart](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/information-radiator/sprint-burndown-chart)
 
 {:style="text-align:center;"}
 ![ch03_06_43_Sprint_Burndown_Chart1](Images/ch03_06_43_Sprint_Burndown_Chart1.png)
