@@ -1,6 +1,3 @@
-{:style="text-align:center;"}
-
-
 # スプリントゴール
 
  Original:[Sprint Goal](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-goal)
