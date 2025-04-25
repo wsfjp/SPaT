@@ -36,7 +36,7 @@ team 1:チーム 1<br>team 2:チーム 2<br>team 3:チーム 3<br>team 4:チー�
 {:style="text-align:center;"}
 ＊　　＊　　＊
 
-連携を成功させるには、開発に関わるすべての人々、すべてのチームがプロダクト全体、[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)（[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)を参照）、ゴールを理解する必要があります。これには通常、[スクラムチーム](ch02_07_7_Scrum_Team.md)が適切と判断するレベルまで、[プロダクトオーナーチーム](ch02_12_12_Product_Owner_Team.md)​​を拡張することが必要になります。[開発チーム](ch02_14_14_Development_Team.md)は、その能力の一部を[プロダクトオーナー](ch02_11_11_Product_Owner.md)をサポートするために使います。
+連携を成功させるには、開発に関わるすべての人々、すべてのチームがプロダクト全体、[ビジョン](ch03_02_39_Vision.md)（[ビジョン](ch03_02_39_Vision.md)を参照）、ゴールを理解する必要があります。これには通常、[スクラムチーム](ch02_07_7_Scrum_Team.md)が適切と判断するレベルまで、[プロダクトオーナーチーム](ch02_12_12_Product_Owner_Team.md)​​を拡張することが必要になります。[開発チーム](ch02_14_14_Development_Team.md)は、その能力の一部を[プロダクトオーナー](ch02_11_11_Product_Owner.md)をサポートするために使います。
 
 スケーリングが行われる時、それは常に状況に応じたものであり、協力の具体的な方法は[開発チーム](ch02_14_14_Development_Team.md)によって決定されますが、一般的な戦術には以下のようなものがあります。
 
@@ -46,7 +46,7 @@ team 1:チーム 1<br>team 2:チーム 2<br>team 3:チーム 3<br>team 4:チー�
 
 * 共通の[スプリントプランニング](ch02_25_24_Sprint_Planning.md)​、​[スプリントレビュー](ch02_36_35_Sprint_Review.md)​、その他の必須のスクラムイベント
 
-* 共通の​[Refined Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog/refined-product-backlog)​イベントの開催
+* 共通の​[リファインメントされたプロダクトバックログ](ch03_30_64_Refined_Product_Backlog.md)​イベントの開催
 
 * ​セミフォーマルな最適化ネットワークである[志を同じくする仲間](ch02_05_5_Birds_of_a_Feather.md)​を作り、チーム間で共有されるアーキテクチャなどの共通の専門知識を活用して、事前に分かった課題に積極的に対応
 

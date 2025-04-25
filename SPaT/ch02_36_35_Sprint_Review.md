@@ -13,21 +13,21 @@
 {:style="text-align:center;"}
 ＊　　＊　　＊
 
-**開発が終了した後、プロダクトの締めくくりをする必要があります。期待した成果のチェックリストを満たしただけでは、プロダクトに必要なことができているか、チームが開発において適切な次のステップに進めそうか確認できません。**[開発チーム](ch02_14_14_Development_Team.md)は、​[自律したチーム](ch02_16_16_Autonomous_Team.md)および[自己組織化チーム](ch02_17_17_Self_Organizing_Team.md)として働き、​[Sprint Goal](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-goal)が示すコンテキストとフォーカスに従って、[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)を作り、チームの理解に基づいて¶55 Product Backlog Item(PBI）を完了させます。
+**開発が終了した後、プロダクトの締めくくりをする必要があります。期待した成果のチェックリストを満たしただけでは、プロダクトに必要なことができているか、チームが開発において適切な次のステップに進めそうか確認できません。**[開発チーム](ch02_14_14_Development_Team.md)は、​[自律したチーム](ch02_16_16_Autonomous_Team.md)および[自己組織化チーム](ch02_17_17_Self_Organizing_Team.md)として働き、​[スプリントゴール](ch03_38_71_Sprint_Goal.md)が示すコンテキストとフォーカスに従って、[定期的なプロダクトインクリメント](ch03_52_85_Regular_Product_Increment.md)を作り、チームの理解に基づいて¶55 Product Backlog Item(PBI）を完了させます。
 
-[プロダクトオーナー](ch02_11_11_Product_Owner.md)と[開発チーム](ch02_14_14_Development_Team.md)は、[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)を作成することで組織に価値を提供するために協力して働きます。[開発チーム](ch02_14_14_Development_Team.md)のメンバーは、[Production Episode](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/production-episode)中にチーム内で作業を行うことが普通ですが、[プロダクトオーナー](ch02_11_11_Product_Owner.md)や他のステークホルダーに対して、正しいものを開発する責任を負います。長い期間、自分たちの印象に頼っていると、[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)​の意図から外れる恐れがあります。
+[プロダクトオーナー](ch02_11_11_Product_Owner.md)と[開発チーム](ch02_14_14_Development_Team.md)は、[定期的なプロダクトインクリメント](ch03_52_85_Regular_Product_Increment.md)を作成することで組織に価値を提供するために協力して働きます。[開発チーム](ch02_14_14_Development_Team.md)のメンバーは、[Production Episode](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/production-episode)中にチーム内で作業を行うことが普通ですが、[プロダクトオーナー](ch02_11_11_Product_Owner.md)や他のステークホルダーに対して、正しいものを開発する責任を負います。長い期間、自分たちの印象に頼っていると、[ビジョン](ch03_02_39_Vision.md)​の意図から外れる恐れがあります。
 
 {:style="text-align:center;"}
 ![ch02_36_35_Sprint_Review2](Images/ch02_36_35_Sprint_Review2.png)<br>
 greatest value: 最高の価値<br>VISION:ビジョン<br>product:プロダクト<br>development team:開発チーム
 
-優れた[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)の具体的なビジョンを描くことができ、[スプリントプランニング](ch02_25_24_Sprint_Planning.md)でチームに構築を依頼します。このビジョンは、[開発チーム](ch02_14_14_Development_Team.md)との綿密な計画作りや議論に基づいています。これは、[Enabling Specification](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog/enabling-specification)のレベルに達しますが、複雑なプロダクトを構築する際に完璧に先を見通すことは不可能です。具体的に実装すると、ほぼ常に疑問が生まれます。プロダクトのビジョンを描いたり、チームと議論した時に生まれる物を超えた疑問です。また、[プロダクトオーナー](ch02_11_11_Product_Owner.md)とチーム間のコミュニケーションが情報を失ったり、[プロダクトオーナー](ch02_11_11_Product_Owner.md)がプロダクトに対する暗黙の仮定や思いをすべて伝えていない可能性も常にあります。
+優れた[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、[定期的なプロダクトインクリメント](ch03_52_85_Regular_Product_Increment.md)の具体的なビジョンを描くことができ、[スプリントプランニング](ch02_25_24_Sprint_Planning.md)でチームに構築を依頼します。このビジョンは、[開発チーム](ch02_14_14_Development_Team.md)との綿密な計画作りや議論に基づいています。これは、[Enabling Specification](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog/enabling-specification)のレベルに達しますが、複雑なプロダクトを構築する際に完璧に先を見通すことは不可能です。具体的に実装すると、ほぼ常に疑問が生まれます。プロダクトのビジョンを描いたり、チームと議論した時に生まれる物を超えた疑問です。また、[プロダクトオーナー](ch02_11_11_Product_Owner.md)とチーム間のコミュニケーションが情報を失ったり、[プロダクトオーナー](ch02_11_11_Product_Owner.md)がプロダクトに対する暗黙の仮定や思いをすべて伝えていない可能性も常にあります。
 
-実際に何が起こっているかを検査するためには透明性が必要であり、それを得る唯一の方法は、[Sprint Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-backlog)の項目をチェックするのではなく、実際に動作するプロダクトを検査することです（例：Agile Project Management with Scrum [Sch01], p. 56）。[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)のための規定リストをチェックしたとしても不十分で、常にそのようなリストは必然的に不完全です。なぜなら出現する潜在的な要件、つまり未知の未知が存在する可能性があるためです。また、`4.1.1. 信頼で結ばれた共同体`を確立することも必要です。
+実際に何が起こっているかを検査するためには透明性が必要であり、それを得る唯一の方法は、[スプリントバックログ](ch03_39_72_Sprint_Backlog.md)の項目をチェックするのではなく、実際に動作するプロダクトを検査することです（例：Agile Project Management with Scrum [Sch01], p. 56）。[定期的なプロダクトインクリメント](ch03_52_85_Regular_Product_Increment.md)のための規定リストをチェックしたとしても不十分で、常にそのようなリストは必然的に不完全です。なぜなら出現する潜在的な要件、つまり未知の未知が存在する可能性があるためです。また、`4.1.1. 信頼で結ばれた共同体`を確立することも必要です。
 
 それゆえ：
 
-**プロダクションエピソードの終わりには、プロダクトの状態を評価し、エンドユーザーのニーズ、リスク、機会、問題、予想される完成時期に関する知見を得るイベントを設け、プロダクトが[Greatest Value](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/greatest-value)へ向かって進むことを保証します。**イベントには、[開発チーム](ch02_14_14_Development_Team.md)、[プロダクトオーナー](ch02_11_11_Product_Owner.md)、他の招待されたステークホルダーが参加します。参加者は、[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)のどの部分が提供可能でどの部分が不可能なのか、​[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)でプロダクトに関して得られた教訓、今後の暫定的なプロダクト計画について共に議論します。参加者は、理想的には提供に関する決定と今後の計画に関して合意に達しますが、これらの事は[プロダクトオーナー](ch02_11_11_Product_Owner.md)が最終決定します。
+**プロダクションエピソードの終わりには、プロダクトの状態を評価し、エンドユーザーのニーズ、リスク、機会、問題、予想される完成時期に関する知見を得るイベントを設け、プロダクトが[Greatest Value](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/greatest-value)へ向かって進むことを保証します。**イベントには、[開発チーム](ch02_14_14_Development_Team.md)、[プロダクトオーナー](ch02_11_11_Product_Owner.md)、他の招待されたステークホルダーが参加します。参加者は、[定期的なプロダクトインクリメント](ch03_52_85_Regular_Product_Increment.md)のどの部分が提供可能でどの部分が不可能なのか、​[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)でプロダクトに関して得られた教訓、今後の暫定的なプロダクト計画について共に議論します。参加者は、理想的には提供に関する決定と今後の計画に関して合意に達しますが、これらの事は[プロダクトオーナー](ch02_11_11_Product_Owner.md)が最終決定します。
 
 複雑な開発における問題に対処する良い方法は、短いフィードバックループを用いて、ステークホルダーがソリューションを評価することです。これにより、チームは大きく逸脱することなく迅速に適応できます。[スプリントレビュー](ch02_36_35_Sprint_Review.md)は、スプリントサイクル中の検討とフィードバックの中心です。[プロダクトオーナー](ch02_11_11_Product_Owner.md)はどんなステークホルダーでも[スプリントレビュー](ch02_36_35_Sprint_Review.md)に招待できます。キーとなるエンドユーザーを招待し、彼らのフィードバックを引き出すことが推奨されます。
 
@@ -43,7 +43,7 @@ stakeholders:ステークホルダー<br>greatest value:最高の価値<br>produ
 
 * ユーザーがプロダクトをハンズオン評価します。
 
-* チームが[Sprint Goal](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-goal)を達成したかどうかを議論します。
+* チームが[スプリントゴール](ch03_38_71_Sprint_Goal.md)を達成したかどうかを議論します。
 
 * [プロダクトオーナー](ch02_11_11_Product_Owner.md)が、完成したPBIと、完成していないPBIを特定します（[Definition of Done](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/definition-of-done)を参照）。
 

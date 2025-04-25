@@ -11,7 +11,7 @@
 {:style="text-align:center;"}
 
 
-…`4.1.1. 信頼で結ばれた共同体`（`4.1.1. 信頼で結ばれた共同体`を参照）があり、共通の​[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)を持っている。[スクラムチーム](ch02_07_7_Scrum_Team.md)はその[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)に向けて活動している。
+…`4.1.1. 信頼で結ばれた共同体`（`4.1.1. 信頼で結ばれた共同体`を参照）があり、共通の​[ビジョン](ch03_02_39_Vision.md)を持っている。[スクラムチーム](ch02_07_7_Scrum_Team.md)はその[ビジョン](ch03_02_39_Vision.md)に向けて活動している。
 
 {:style="text-align:center;"}
 ＊　　＊　　＊
@@ -23,7 +23,7 @@
 {:style="text-align:center;"}
 ![ch02_39_38_Product_Pride2](Images/ch02_39_38_Product_Pride2.png)
 
-[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、ステークホルダーの要望やニーズを深く理解し、プロダクトインクリメントがどうやって市場やその他のステークホルダーの期待に応え、また上回り、製品価値（[Value and ROI](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog/value-and-roi)を参照）を高めるかを正確に理解していなければなりません。顧客と直接コンタクトを取ることができない、意思決定することを許されていないなどの障害があると、プロダクトの[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)が明確でない環境が生まれ、​[Greatest Value](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/greatest-value)を生み出すことのない、とりとめのない[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)​になってしまいます。結果として、チームの活力やプロダクトに対する熱意は低下し、エネルギーを他のプロジェクトに振り向けるようになるかもしれません。
+[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、ステークホルダーの要望やニーズを深く理解し、プロダクトインクリメントがどうやって市場やその他のステークホルダーの期待に応え、また上回り、製品価値（[Value and ROI](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog/value-and-roi)を参照）を高めるかを正確に理解していなければなりません。顧客と直接コンタクトを取ることができない、意思決定することを許されていないなどの障害があると、プロダクトの[ビジョン](ch03_02_39_Vision.md)が明確でない環境が生まれ、​[Greatest Value](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/greatest-value)を生み出すことのない、とりとめのない[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)​になってしまいます。結果として、チームの活力やプロダクトに対する熱意は低下し、エネルギーを他のプロジェクトに振り向けるようになるかもしれません。
 
 それゆえ：
 
@@ -34,11 +34,11 @@
 {:style="text-align:center;"}
 ![ch02_39_38_Product_Pride3](Images/ch02_39_38_Product_Pride3.png)
 
-たとえば、[スクラムチーム](ch02_07_7_Scrum_Team.md)は[Sprint Goal](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-goal)の作成に参加しています。チームは、プロダクト開発で必要になる全ての領域で能力を発揮できるよう[機能横断チーム](ch02_10_10_Cross_Functional_Team.md)​ でなければなりません。作業やチームメンバーに魅力を感じたチームに、開発者自身が自発的にサインアップすると、共有された目的と個人の価値観を一致させる基盤ができます（`4.2.11. 自分たちで選んだチーム`を参照）。[自律したチーム](ch02_16_16_Autonomous_Team.md)​も参照してください。
+たとえば、[スクラムチーム](ch02_07_7_Scrum_Team.md)は[スプリントゴール](ch03_38_71_Sprint_Goal.md)の作成に参加しています。チームは、プロダクト開発で必要になる全ての領域で能力を発揮できるよう[機能横断チーム](ch02_10_10_Cross_Functional_Team.md)​ でなければなりません。作業やチームメンバーに魅力を感じたチームに、開発者自身が自発的にサインアップすると、共有された目的と個人の価値観を一致させる基盤ができます（`4.2.11. 自分たちで選んだチーム`を参照）。[自律したチーム](ch02_16_16_Autonomous_Team.md)​も参照してください。
 
-プロダクトを正しく作ること、優れた職人気質を認めることで[スクラムチーム](ch02_07_7_Scrum_Team.md)は誇りを持ちます。​[スクラムマスター](ch02_20_19_ScrumMaster.md)は、チームが卓越したスキルと働き方を身につけられるよう支援します（[カイゼンパルス](ch02_27_26_Kaizen_Pulse.md)​と​​[Scrumming the Scrum](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/scrumming-the-scrum)を参照）。正しい[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)​が現れると、誰もが誇りを持ちます。市場からのフィードバックは[スクラムチーム](ch02_07_7_Scrum_Team.md)の努力を認知するもので、チームのプライドを更に高めます。
+プロダクトを正しく作ること、優れた職人気質を認めることで[スクラムチーム](ch02_07_7_Scrum_Team.md)は誇りを持ちます。​[スクラムマスター](ch02_20_19_ScrumMaster.md)は、チームが卓越したスキルと働き方を身につけられるよう支援します（[カイゼンパルス](ch02_27_26_Kaizen_Pulse.md)​と​​[Scrumming the Scrum](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/scrumming-the-scrum)を参照）。正しい[定期的なプロダクトインクリメント](ch03_52_85_Regular_Product_Increment.md)​が現れると、誰もが誇りを持ちます。市場からのフィードバックは[スクラムチーム](ch02_07_7_Scrum_Team.md)の努力を認知するもので、チームのプライドを更に高めます。
 
-正しいプロダクトを作ることが[プロダクトプライド](ch02_39_38_Product_Pride.md)を生みます。素晴らしいチームには「場」があります。偉大なことが行われる可能性は、共有された目的に集うことから始まります。目的によってチームがまとまるということではなく、目的は素晴らしい潜在的なチームから生まれます。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)の一部として熱意の最初の担い手となり、熱意を伝搬させることが仕事の一部となります。
+正しいプロダクトを作ることが[プロダクトプライド](ch02_39_38_Product_Pride.md)を生みます。素晴らしいチームには「場」があります。偉大なことが行われる可能性は、共有された目的に集うことから始まります。目的によってチームがまとまるということではなく、目的は素晴らしい潜在的なチームから生まれます。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は[ビジョン](ch03_02_39_Vision.md)の一部として熱意の最初の担い手となり、熱意を伝搬させることが仕事の一部となります。
 
 {:style="text-align:center;"}
 ＊　　＊　　＊

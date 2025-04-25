@@ -42,7 +42,7 @@ Product backlog:プロダクトバックログ<br>Field problem:現場の問題<
 
 生産活動を妨げないように組織が自己組織化するための3つの簡単なルールを設定します。
 
-この戦略によって、チームが[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)中に再計画をおこない、​[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)の完成品を提供する可能性を高めることができます。
+この戦略によって、チームが[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)中に再計画をおこない、​[定期的なプロダクトインクリメント](ch03_52_85_Regular_Product_Increment.md)の完成品を提供する可能性を高めることができます。
 
 1. チームは、過去のデータに基づいて、予期せぬアイテムのためのバッファを作成します。例えば、平均的にチームの仕事の3分の1が計画外の仕事で、予期せず[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)の作業になっているとしましょう。チームの[Notes on Velocity](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/notes-on-velocity)の平均が60ポイントの場合、チームは割り込みバッファとして20ポイントを確保します。
 
@@ -54,7 +54,7 @@ Product backlog:プロダクトバックログ<br>Field problem:現場の問題<
 
 [プロダクトオーナー](ch02_11_11_Product_Owner.md)は、短期的な顧客満足度と将来の収益創出のバランスを取るためにバッファのサイズを調整します。しばしば、[プロダクトオーナー](ch02_11_11_Product_Owner.md)は顧客満足度に関する第三者的な指標を持っており、バッファサイズを上げ下げすることで調整が可能です。
 
-これは、作業したバックログアイテムから生じる全ての欠陥をスプリント中に修正に集中すること（[Good Housekeeping](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/good-housekeeping)を参照）とは独立した戦略です。また、[プロダクトオーナー](ch02_11_11_Product_Owner.md)が技術的負債を減らすために、[スプリントプランニング](ch02_25_24_Sprint_Planning.md)の中で[Product Backlog Item](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog/product-backlog-item)をスプリントに割り当てることとも独立しています。欠陥への許容度が低いことは一般的にベロシティを高めますが、バッファを超えることは通常、少なくとも50％のベロシティ低下を引き起こします。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、常識を使ってこれらの制約のバランスを取る必要があります。[Whack the Mole](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/whack-the-mole)を参照してください。
+これは、作業したバックログアイテムから生じる全ての欠陥をスプリント中に修正に集中すること（[Good Housekeeping](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/good-housekeeping)を参照）とは独立した戦略です。また、[プロダクトオーナー](ch02_11_11_Product_Owner.md)が技術的負債を減らすために、[スプリントプランニング](ch02_25_24_Sprint_Planning.md)の中で[プロダクトバックログアイテム](ch03_21_55_Product_Backlog_Item.md)をスプリントに割り当てることとも独立しています。欠陥への許容度が低いことは一般的にベロシティを高めますが、バッファを超えることは通常、少なくとも50％のベロシティ低下を引き起こします。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、常識を使ってこれらの制約のバランスを取る必要があります。[Whack the Mole](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/whack-the-mole)を参照してください。
 
 {:style="text-align:center;"}
 ＊　　＊　　＊
