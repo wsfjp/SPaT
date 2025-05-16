@@ -24,7 +24,7 @@ PBI: PBI<br>A sprint: 1スプリント
 
 [開発チーム](ch02_14_14_Development_Team.md)が[スプリントゴール](ch03_38_71_Sprint_Goal.md)を達成するために自己組織化するには、なんらかの基盤が必要になります。残っている作業について、[デイリースクラム](ch02_30_29_Daily_Scrum.md)で頻繁で正確なフィードバックを行うことは、[開発チーム](ch02_14_14_Development_Team.md)が開発のダイナミクスを管理するために不可欠です。
 
-[開発チーム](ch02_14_14_Development_Team.md)には、[スプリントゴール](ch03_38_71_Sprint_Goal.md)に対する進捗を測定するための出発点が必要です。もちろん、[プロダクトオーナー](ch02_11_11_Product_Owner.md)や[スクラムマスター](ch02_20_19_ScrumMaster.md)も関心を持っています。しかし、実際に[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)​を作るのは[開発チーム](ch02_14_14_Development_Team.md)です。
+[開発チーム](ch02_14_14_Development_Team.md)には、[スプリントゴール](ch03_38_71_Sprint_Goal.md)に対する進捗を測定するための出発点が必要です。もちろん、[プロダクトオーナー](ch02_11_11_Product_Owner.md)や[スクラムマスター](ch02_20_19_ScrumMaster.md)も関心を持っています。しかし、実際に[定期的なプロダクトインクリメント](ch03_52_85_Regular_Product_Increment.md)​を作るのは[開発チーム](ch02_14_14_Development_Team.md)です。
 
 それゆえ：
 

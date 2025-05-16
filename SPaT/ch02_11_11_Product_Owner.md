@@ -10,7 +10,7 @@
 
 訳注：ヘンリー・フォードは、ヘンプカーとして知られる車体が麻(hemp)の繊維で作られ、麻由来のバイオ燃料で走る車を作りました。
 
-...[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)やできる限りの良い成果について、誰もが自分なりの大まかな考えを持っていますが、一方でコミュニティはその情熱と熱意を結集できるリーダーを探し求めています。
+...[ビジョン](ch03_02_39_Vision.md)やできる限りの良い成果について、誰もが自分なりの大まかな考えを持っていますが、一方でコミュニティはその情熱と熱意を結集できるリーダーを探し求めています。
 
 **ひとりが、[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)に責任を持つ必要があります。**この人物には、深いドメイン知識や、ビジネスの洞察力、プロダクトの技術や技術的な依存関係への理解、そしてビジネス価値を最大化するために、バックログを強制的に順位付けする権限が必要です。
 
@@ -18,7 +18,7 @@
 ![ch02_11_11_Product_Owner2](Images/ch02_11_11_Product_Owner2.png)<br>
 Vision: ビジョン<br>Customers: 顧客<br>Product: プロダクト<br>Developers: 開発者
 
-[スクラムチーム](ch02_07_7_Scrum_Team.md)のメンバーは、価値提供に集中するために、単一の、よく整えられ、順序づけられた、[Product Backlog Item](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog/product-backlog-item)​sのリストを必要とします。このリストがなければ、チームは市場に使われることのない機能や、ほとんど使われない機能を作ってしまうかもしれません（そしてチームはそれを維持する労力を払うことになります）。また、チームは間違ったタイミングで機能を提供したり（収益の部分最適化）、何も提供しないかもしれません。チームのベロシティを支え最大化するために、スクラムチームは適切なタイミングにバックログを必要とします。しかし、委員会方式ではこの適切なタイミングを実現できません。また、委員会では妥協を含み、やや一貫性を欠いた結論になりがちです。
+[スクラムチーム](ch02_07_7_Scrum_Team.md)のメンバーは、価値提供に集中するために、単一の、よく整えられ、順序づけられた、[プロダクトバックログアイテム](ch03_21_55_Product_Backlog_Item.md)​sのリストを必要とします。このリストがなければ、チームは市場に使われることのない機能や、ほとんど使われない機能を作ってしまうかもしれません（そしてチームはそれを維持する労力を払うことになります）。また、チームは間違ったタイミングで機能を提供したり（収益の部分最適化）、何も提供しないかもしれません。チームのベロシティを支え最大化するために、スクラムチームは適切なタイミングにバックログを必要とします。しかし、委員会方式ではこの適切なタイミングを実現できません。また、委員会では妥協を含み、やや一貫性を欠いた結論になりがちです。
 
 あまりにも多くの組織が、プロダクトの市場投入のための計画表作りに、複数の人やグループを投入しています。複数部門のスタッフが、それぞれの視点からプロダクトの市場投入のための計画を作るプロセスに参加します。複数の視点を持つことで、プロダクトを消費者に最も効果的に届ける方法への洞察が広がるという意味では、これは良いアイデアです。しかしながら、このような委員会は、企業内部の任務を代表して行動してしまい、真に価値がある市場の関心事から切り離されることが多すぎるのです。さらに、これらのグループには意思決定を行う権限がなく、別のグループがプロダクトの重要な意思決定をする権限を持つという「スポンサーシップ」が必要なことがよくあります。意思決定は、プロダクトに関する作業や、作業を行う人々の両方から遠く離れたところで行われます。このような意思決定は、開発者がこのプロセスに参加していない場合（あるいは参加していても）、開発者のやる気を奪うことになります。議論は、[Value Stream](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream)​s​の末端にいる人々の利益ではなく、しばしば政治的な配慮、支配権の保持、特定の支持者の利益増加に陥ってしまいます。このような交渉は、プロセスを遅らせ、プロダクトの提供を遅らせ、品質を低下させ、バックログの一貫性を損なうのです。
 
@@ -49,7 +49,7 @@ Ideas: アイデア<br>Customers: 顧客<br>Consistent vision: 一貫したビ�
 
 [スクラムチーム](ch02_07_7_Scrum_Team.md)は、組織内の他の声は無視して、[プロダクトオーナー](ch02_11_11_Product_Owner.md)に耳を傾ける必要があります。そうすることで、チームは集中を維持することができます。[開発チーム](ch02_14_14_Development_Team.md)は、チームの作業の方向性や優先順位を変えたいと望む人々への対応を[プロダクトオーナー](ch02_11_11_Product_Owner.md)に任せるべきです。こうした場合に、[スクラムマスター](ch02_20_19_ScrumMaster.md)​は、[開発チーム](ch02_14_14_Development_Team.md)を割り込みから守るという支援をするべきです。
 
-[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)は、[プロダクトオーナー](ch02_11_11_Product_Owner.md)の[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)を達成する方法について、すべての会話に関わる決定を文書化したものです。理想的には、（特に[開発チーム](ch02_14_14_Development_Team.md)の視点に関して）合意された見解を反映したものとなりますが、その内容や順序について、[プロダクトオーナー](ch02_11_11_Product_Owner.md)が最終的な決定権を持ちます。それぞれの[スクラムチーム](ch02_07_7_Scrum_Team.md)は、その[開発チーム](ch02_14_14_Development_Team.md)のために、一つの[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)を作成する一人の[プロダクトオーナー](ch02_11_11_Product_Owner.md)を必要とします。もし複数のチームが一つのプロダクトを一緒に開発している場合、これらのチームの作業を推進する[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)は一つにするべきです。
+[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)は、[プロダクトオーナー](ch02_11_11_Product_Owner.md)の[ビジョン](ch03_02_39_Vision.md)を達成する方法について、すべての会話に関わる決定を文書化したものです。理想的には、（特に[開発チーム](ch02_14_14_Development_Team.md)の視点に関して）合意された見解を反映したものとなりますが、その内容や順序について、[プロダクトオーナー](ch02_11_11_Product_Owner.md)が最終的な決定権を持ちます。それぞれの[スクラムチーム](ch02_07_7_Scrum_Team.md)は、その[開発チーム](ch02_14_14_Development_Team.md)のために、一つの[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)を作成する一人の[プロダクトオーナー](ch02_11_11_Product_Owner.md)を必要とします。もし複数のチームが一つのプロダクトを一緒に開発している場合、これらのチームの作業を推進する[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)は一つにするべきです。
 
 私たちは、[ある]テーマについて本当に情熱を持つ人々を集めて、チームを結成します。もし、作ろうと思っているプロダクトはこれだ、という70ページのドキュメントをあなたが書いてしまうと、実際にはプロセスで創造性を押し殺してしまうことになります。「ええっと、あなたが忘れているこんな機能があって、ぜひ追加したいのですが」というエンジニアがいたとします。その創造性をプロダクトから排除したくはないでしょう。
 
@@ -57,7 +57,7 @@ Ideas: アイデア<br>Customers: 顧客<br>Consistent vision: 一貫したビ�
 
 [Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)の作成に時間がかかりすぎたり、一人では提供できない専門知識を要する場合、[プロダクトオーナー](ch02_11_11_Product_Owner.md)は自分と一緒に取り組む[プロダクトオーナーチーム](ch02_12_12_Product_Owner_Team.md)​を形成するべきです。自分自身はチーフ[プロダクトオーナー](ch02_11_11_Product_Owner.md)となって、[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)の並べ替えに関する最終的な決定権を持ちます。
 
-誰でも[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)の内容として何かを提案できます。提案者は、[Product Backlog Item](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog/product-backlog-item)を完全な形にするための支援を提供しなければならないという点において、そのアイテムは提案者のものです。[プロダクトオーナーチーム](ch02_12_12_Product_Owner_Team.md)は、そのアイテムを全体の[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)の中で並べ替えます。繰り返しますが、並べ替えの最終決定権は[プロダクトオーナー](ch02_11_11_Product_Owner.md)が持ちます。
+誰でも[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)の内容として何かを提案できます。提案者は、[プロダクトバックログアイテム](ch03_21_55_Product_Backlog_Item.md)を完全な形にするための支援を提供しなければならないという点において、そのアイテムは提案者のものです。[プロダクトオーナーチーム](ch02_12_12_Product_Owner_Team.md)は、そのアイテムを全体の[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)の中で並べ替えます。繰り返しますが、並べ替えの最終決定権は[プロダクトオーナー](ch02_11_11_Product_Owner.md)が持ちます。
 
 優れた[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、健全なユーザーエクスペリエンス(UX)のスキルセットを持っているか、少なくともそうした専門性を[プロダクトオーナーチーム](ch02_12_12_Product_Owner_Team.md)で活用できます。UXのスキルを持つチームメンバーが、優しく説得し、配慮や気配りをすることで、[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、時が経つにつれ、こうしたスキルの多くを身につけることができます。
 

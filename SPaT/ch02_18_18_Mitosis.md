@@ -34,12 +34,12 @@ Cross-functional team: 機能横断チーム<br>Who is working on x ?: 誰がx�
 ![ch02_18_18_Mitosis3](Images/ch02_18_18_Mitosis3.png)<br>
 Cross-functional team: 機能横断チーム<br>Scrum of scrums: スクラムオブスクラム<br>Focus: 集中
 
-分割後も各チームが[機能横断チーム](ch02_10_10_Cross_Functional_Team.md)であり続け、自律的に[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)を届けられるように、十分に広い分野をカバーしていることが重要です（[自律したチーム](ch02_16_16_Autonomous_Team.md)を参照）。新しいチームはそれぞれ、プロダクトの全ての部分の作業をする権限を持つべきです。
+分割後も各チームが[機能横断チーム](ch02_10_10_Cross_Functional_Team.md)であり続け、自律的に[定期的なプロダクトインクリメント](ch03_52_85_Regular_Product_Increment.md)を届けられるように、十分に広い分野をカバーしていることが重要です（[自律したチーム](ch02_16_16_Autonomous_Team.md)を参照）。新しいチームはそれぞれ、プロダクトの全ての部分の作業をする権限を持つべきです。
 
 {:style="text-align:center;"}
 ＊　　＊　　＊
 
-新たな[開発チーム](ch02_14_14_Development_Team.md)は、それぞれが専任の[スクラムマスター](ch02_20_19_ScrumMaster.md)と開発者を持つべきです。新しいチームは元のチームと同じ[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)の作業を行い、同じ[プロダクトオーナー](ch02_11_11_Product_Owner.md)と一緒に作業します。何らかのプロダクトに取り組むチームはお互いに調整を行い、同じ作業環境を共有すべきです（[同じ場所に集まったチーム](ch02_08_8_Collocated_Team.md)を参照）が、[Production Episode](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/production-episode)でそれぞれのチームが取り組む[Product Backlog Item](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog/product-backlog-item)​sのデリバリーについては自律性を持つべきです。
+新たな[開発チーム](ch02_14_14_Development_Team.md)は、それぞれが専任の[スクラムマスター](ch02_20_19_ScrumMaster.md)と開発者を持つべきです。新しいチームは元のチームと同じ[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)の作業を行い、同じ[プロダクトオーナー](ch02_11_11_Product_Owner.md)と一緒に作業します。何らかのプロダクトに取り組むチームはお互いに調整を行い、同じ作業環境を共有すべきです（[同じ場所に集まったチーム](ch02_08_8_Collocated_Team.md)を参照）が、[Production Episode](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/production-episode)でそれぞれのチームが取り組む[プロダクトバックログアイテム](ch03_21_55_Product_Backlog_Item.md)​sのデリバリーについては自律性を持つべきです。
 
 別々のチームのメンバーは、非公式に連携を続け、必要に応じて[スクラムオブスクラム](ch02_35_34_Scrum_of_Scrums.md)​の日々のリズムも活用します。
 

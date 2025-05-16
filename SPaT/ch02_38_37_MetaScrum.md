@@ -11,7 +11,7 @@
 {:style="text-align:center;"}
 ＊　　＊　　＊
 
-**[スクラムチーム](ch02_07_7_Scrum_Team.md)は設置されていますが、既存の管理構造からの指示（または干渉の脅威）が、プロダクトの内容と方向性に対する統制の所在を混乱させています。**マネージャーがバックログを乱したり、[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)​中でも[開発チーム](ch02_14_14_Development_Team.md)に干渉したりすることで、チームはスプリントに失敗したり、[緊急時手順](ch02_33_32_Emergency_Procedure.md)を引き起こすことがあります。[プロダクトオーナー](ch02_11_11_Product_Owner.md)​の権限を繰り返し侵害することは、チームが価値を最適化する仕事を難しくするかもしれません。[スクラムチーム](ch02_07_7_Scrum_Team.md)と管理職の間の荒れた関係が要求にノイズをもたらすため、一部の[スクラムチーム](ch02_07_7_Scrum_Team.md)は[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)​に向けた価値ある[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)の提供に失敗している可能性があります。また、管理職がチームを支援することに消極的かもしれません。たとえば、企業レベルでのビジネスや契約上の合意事項を顧客に遵守させる責任を怠ることがあります。
+**[スクラムチーム](ch02_07_7_Scrum_Team.md)は設置されていますが、既存の管理構造からの指示（または干渉の脅威）が、プロダクトの内容と方向性に対する統制の所在を混乱させています。**マネージャーがバックログを乱したり、[Sprint](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint)​中でも[開発チーム](ch02_14_14_Development_Team.md)に干渉したりすることで、チームはスプリントに失敗したり、[緊急時手順](ch02_33_32_Emergency_Procedure.md)を引き起こすことがあります。[プロダクトオーナー](ch02_11_11_Product_Owner.md)​の権限を繰り返し侵害することは、チームが価値を最適化する仕事を難しくするかもしれません。[スクラムチーム](ch02_07_7_Scrum_Team.md)と管理職の間の荒れた関係が要求にノイズをもたらすため、一部の[スクラムチーム](ch02_07_7_Scrum_Team.md)は[ビジョン](ch03_02_39_Vision.md)​に向けた価値ある[定期的なプロダクトインクリメント](ch03_52_85_Regular_Product_Increment.md)の提供に失敗している可能性があります。また、管理職がチームを支援することに消極的かもしれません。たとえば、企業レベルでのビジネスや契約上の合意事項を顧客に遵守させる責任を怠ることがあります。
 
 {:style="text-align:center;"}
 ![ch02_38_37_MetaScrum2](Images/ch02_38_37_MetaScrum2.png)<br>
@@ -44,7 +44,7 @@ Metascrum p.o.:メタスクラムPO<br>Management:管理職<br>Other stakeholder
 
 デンマークのSystematic（ソフトウェアおよびシステムソリューションを開発する企業）とスウェーデンのSaab Defenseは、組織全体をスクラムとして運営しています。彼らは、管理組織の最上位に、高レベルの[スクラムオブスクラム](ch02_35_34_Scrum_of_Scrums.md)のように機能するフォーラムを持っています。
 
-[メタスクラム](ch02_38_37_MetaScrum.md)は、企業レベルの変革の中心です。組織全体には戦略的ビジョン、バックログ、ロードマップ、[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)（組織再編、新市場への取り組み等）と、企業をスムーズにかつ効率よく推進するために必要なその他スクラムの構成要素があります。ステークホルダーは組織の方向性の変更、人員配置の変更、障害物を取り除くための予算配分の変更をおこなうことがあるため、これを行う権限を持つ人々が[メタスクラム](ch02_38_37_MetaScrum.md)に含まれている必要があります。
+[メタスクラム](ch02_38_37_MetaScrum.md)は、企業レベルの変革の中心です。組織全体には戦略的ビジョン、バックログ、ロードマップ、[定期的なプロダクトインクリメント](ch03_52_85_Regular_Product_Increment.md)（組織再編、新市場への取り組み等）と、企業をスムーズにかつ効率よく推進するために必要なその他スクラムの構成要素があります。ステークホルダーは組織の方向性の変更、人員配置の変更、障害物を取り除くための予算配分の変更をおこなうことがあるため、これを行う権限を持つ人々が[メタスクラム](ch02_38_37_MetaScrum.md)に含まれている必要があります。
 
 各[Value Stream](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream)とプロダクトは、障害物を[メタスクラム](ch02_38_37_MetaScrum.md)レベルで可視化します。それぞれのプロダクトのリソースはその障害物に対処するには不十分かもしれません。その場合に企業全体として、そのような問題を解決するための力を提供できます。また、問題がプロダクト間で暗黙に関連しており、共同フォーラムで問題を透明化することによってのみ可視化される可能性もあります。良い[メタスクラム](ch02_38_37_MetaScrum.md) [プロダクトオーナー](ch02_11_11_Product_Owner.md)は、[メタスクラム](ch02_38_37_MetaScrum.md)ミーティングで表面化した問題を認識し、可能であればその日のうちに、そうでなければできるだけ早く解決します。
 

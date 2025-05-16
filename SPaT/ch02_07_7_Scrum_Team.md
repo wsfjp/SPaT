@@ -8,12 +8,12 @@
 ![ch02_07_7_Scrum_Team1](Images/ch02_07_7_Scrum_Team1.png)<br>
 ビジョンを達成するために、チーム（プロデューサーとサポーター）が緊密に協力している。チームを守るために警護が必要である。
 
-顧客のためのプロダクトの​[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)​があります。顧客が気に入るであろうアイデアを記録し始めており、こうしたアイデアを実現する必要があると考えています。プロダクトをどのように作るべきか、提案されたアイデアが適切かどうかは分かりませんが、学びを深めることで新しいアイデアが生まれるということは分かっています。
+顧客のためのプロダクトの​[ビジョン](ch03_02_39_Vision.md)​があります。顧客が気に入るであろうアイデアを記録し始めており、こうしたアイデアを実現する必要があると考えています。プロダクトをどのように作るべきか、提案されたアイデアが適切かどうかは分かりませんが、学びを深めることで新しいアイデアが生まれるということは分かっています。
 
 {:style="text-align:center;"}
 ＊　　＊　　＊
 
-**多くの素晴らしい[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)は、個人の努力だけでは実現不可能であり、そのような[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)を達成するためには、複雑なプロダクトの構築、市場への投入、フィードバックの活用をおこなう必要があります。**
+**多くの素晴らしい[ビジョン](ch03_02_39_Vision.md)は、個人の努力だけでは実現不可能であり、そのような[ビジョン](ch03_02_39_Vision.md)を達成するためには、複雑なプロダクトの構築、市場への投入、フィードバックの活用をおこなう必要があります。**
 
 プロダクトの中には、個人で大きな成果を実現することが、どうしても難しいものもあります。フィードバックがない状態では、あまりにも簡単に価値の低いプロダクトを開発してしまいます。経験上、チームは個人を上回り、手を多くすることで、作業は楽になります。
 
@@ -41,7 +41,7 @@ business goals: ビジネスゴール<br>process goals: プロセスゴール<br
 
 [開発チーム](ch02_14_14_Development_Team.md)は、プロダクトを実装し、エンドユーザーに届けるために必要なすべての作業を行うスキルと知識を持っています。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、[スクラムチーム](ch02_07_7_Scrum_Team.md)を顧客とつなげ、ビジネスを体現する存在です。[スクラムマスター](ch02_20_19_ScrumMaster.md)は、[スクラムチーム](ch02_07_7_Scrum_Team.md)をコーチし、開発プロセスの継続的な改善を支援し、障害に対処するためのスキルと知識を持っています。
 
-通常、[プロダクトオーナー](ch02_11_11_Product_Owner.md)は自身の[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)を実現し価値を実現するために、[スクラムチーム](ch02_07_7_Scrum_Team.md)を編成します。そして多くの場合、[プロダクトオーナー](ch02_11_11_Product_Owner.md)は企業内で活動し、大きな組織の中の小さな自律した企業として[スクラムチーム](ch02_07_7_Scrum_Team.md)を作ります。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)に向けてチームを導きます。チームは少数の開発者を迎えたり、時間の経過とともに成長することもありますが、どんな開発チームも7人程度の開発者からなる ​[小さなチーム](ch02_09_9_Small_Teams.md)を超えることはありません。
+通常、[プロダクトオーナー](ch02_11_11_Product_Owner.md)は自身の[ビジョン](ch03_02_39_Vision.md)を実現し価値を実現するために、[スクラムチーム](ch02_07_7_Scrum_Team.md)を編成します。そして多くの場合、[プロダクトオーナー](ch02_11_11_Product_Owner.md)は企業内で活動し、大きな組織の中の小さな自律した企業として[スクラムチーム](ch02_07_7_Scrum_Team.md)を作ります。[プロダクトオーナー](ch02_11_11_Product_Owner.md)は、[ビジョン](ch03_02_39_Vision.md)に向けてチームを導きます。チームは少数の開発者を迎えたり、時間の経過とともに成長することもありますが、どんな開発チームも7人程度の開発者からなる ​[小さなチーム](ch02_09_9_Small_Teams.md)を超えることはありません。
 
 開発者は[開発チーム](ch02_14_14_Development_Team.md)としてのアイデンティティを持ち、予測とコミットメントに基づき自らを管理します。[プロダクトオーナー](ch02_11_11_Product_Owner.md)と開発者は協力して、[スクラムマスター](ch02_20_19_ScrumMaster.md)を雇うか指名します。[スクラムマスター](ch02_20_19_ScrumMaster.md)はプロセスに当事者意識を持ち、継続的な改善のためにチームを支援します。
 
@@ -50,9 +50,9 @@ business goals: ビジネスゴール<br>process goals: プロセスゴール<br
 {:style="text-align:center;"}
 ＊　　＊　　＊
 
-[スクラムチーム](ch02_07_7_Scrum_Team.md)は、[プロダクトオーナー](ch02_11_11_Product_Owner.md)の[Vision](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/vision)を支える組織的な拠点となります。それぞれの[スクラムチーム](ch02_07_7_Scrum_Team.md)は、[自律したチーム](ch02_16_16_Autonomous_Team.md)として、小さな企業のように運営されます。各チームは、共有された価値観を中心に集まり、[行動規範](ch02_32_31_Norms_of_Conduct.md)を意識し、時にはそれを表明することもあります。
+[スクラムチーム](ch02_07_7_Scrum_Team.md)は、[プロダクトオーナー](ch02_11_11_Product_Owner.md)の[ビジョン](ch03_02_39_Vision.md)を支える組織的な拠点となります。それぞれの[スクラムチーム](ch02_07_7_Scrum_Team.md)は、[自律したチーム](ch02_16_16_Autonomous_Team.md)として、小さな企業のように運営されます。各チームは、共有された価値観を中心に集まり、[行動規範](ch02_32_31_Norms_of_Conduct.md)を意識し、時にはそれを表明することもあります。
 
-小規模でインタラクティブな[スクラムチーム](ch02_07_7_Scrum_Team.md)は、​[Regular Product Increment](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/regular-product-increment)​としてのプロダクトの開発を通して、[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)​へのフィードバックを得る機会を作ります。[開発チーム](ch02_14_14_Development_Team.md)は[プロダクトオーナー](ch02_11_11_Product_Owner.md)と多くの時間を過ごし、仕事をする関係性を強固に築くことで、[開発チーム](ch02_14_14_Development_Team.md)はプロダクトの方向性をよく理解するようになります。[プロダクトオーナー](ch02_11_11_Product_Owner.md)もプロダクトの実装について深く理解するようになり、[開発チーム](ch02_14_14_Development_Team.md)と[プロダクトオーナー](ch02_11_11_Product_Owner.md)の間で、ROIやその他の価値を高めるような決定を共同で行うことに繋がっていきます。
+小規模でインタラクティブな[スクラムチーム](ch02_07_7_Scrum_Team.md)は、​[定期的なプロダクトインクリメント](ch03_52_85_Regular_Product_Increment.md)​としてのプロダクトの開発を通して、[Product Backlog](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/product-backlog)​へのフィードバックを得る機会を作ります。[開発チーム](ch02_14_14_Development_Team.md)は[プロダクトオーナー](ch02_11_11_Product_Owner.md)と多くの時間を過ごし、仕事をする関係性を強固に築くことで、[開発チーム](ch02_14_14_Development_Team.md)はプロダクトの方向性をよく理解するようになります。[プロダクトオーナー](ch02_11_11_Product_Owner.md)もプロダクトの実装について深く理解するようになり、[開発チーム](ch02_14_14_Development_Team.md)と[プロダクトオーナー](ch02_11_11_Product_Owner.md)の間で、ROIやその他の価値を高めるような決定を共同で行うことに繋がっていきます。
 
 [スクラムチーム](ch02_07_7_Scrum_Team.md)は、プロダクトの方向性やゴールを中心にチームを形成します。チームは定期的に集まり、レビューや計画づくり（[枠を決めて作業](ch02_24_23_Fixed_Work.md)​）などの定期的に行うことが決まっている作業や、[スプリントプランニング](ch02_25_24_Sprint_Planning.md)​などの中核となるイベントに参加します。チームには目的があります。[スクラムチーム](ch02_07_7_Scrum_Team.md)によるプロダクトの方向性への明確な繋がりがなければ、チームの目的は分断されてしまいます。機能別サブグループはそれぞれ独立した目的を持っていますが、[スクラムチーム](ch02_07_7_Scrum_Team.md)の中にはそのようなグループはありません。プロダクト開発の風土もまた、[スクラムチーム](ch02_07_7_Scrum_Team.md)によって形成されます。プロダクトに求められるものが、高いセキュリティー、非常に早い提供、高い堅牢性のための連携を支える構造の何であれ、[スクラムチーム](ch02_07_7_Scrum_Team.md)は、プロダクト市場との繋がりによって、市場が求めるものを素早く実証できます。[開発チーム](ch02_14_14_Development_Team.md)と[プロダクトオーナー](ch02_11_11_Product_Owner.md)が密接につながることで、開発全体を正しい方向に導く風土が醸成されます。複数の[スクラムチーム](ch02_07_7_Scrum_Team.md)は、必要に応じて非公式に連携し、またより正式には包括的に[メタスクラム](ch02_38_37_MetaScrum.md)を通して連携します。
 
